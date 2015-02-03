@@ -12,8 +12,8 @@ Thom, Jennifer, David Millen, and Joan DiMicco. 2012. “Removing Gamification f
 
 This article is the final follow-up on the gamification of a social networking system; the authors explore the effects of removing the gamification.
 
-----
-##First time you read
+
+
 
 ###What are the main claims?
 
@@ -21,20 +21,20 @@ This article is the final follow-up on the gamification of a social networking s
 
 ###What questions do you have about the reading?
 
-----
-##Second time you read
+
+
 
 ###What’s the evidence for each of those claims?
 
-###Why was this reading assigned?
 
-###Answer your own questions if you can
 
-----
-##Third time you read
+
+
+
+
 
 ###What’s missing?
 
 ###What are the weaknesses in those claims and evidence?
 
-###What can you do with what you learned from this reading?
+

@@ -15,8 +15,8 @@ Farzan, Rosta, Joan M. DiMicco, David R. Millen, Beth Brownholtz, Werner Geyer, 
 
 This is a follow-up empirical study of the effects of the gamification of a social-networking site.
 
-----
-##First time you read
+
+
 
 ###What are the main claims?
 
@@ -24,20 +24,20 @@ This is a follow-up empirical study of the effects of the gamification of a soci
 
 ###What questions do you have about the reading?
 
-----
-##Second time you read
+
+
 
 ###What’s the evidence for each of those claims?
 
-###Why was this reading assigned?
 
-###Answer your own questions if you can
 
-----
-##Third time you read
+
+
+
+
 
 ###What’s missing?
 
 ###What are the weaknesses in those claims and evidence?
 
-###What can you do with what you learned from this reading?
+

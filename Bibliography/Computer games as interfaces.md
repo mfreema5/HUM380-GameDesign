@@ -15,8 +15,8 @@ Chao, Dennis L. 2004. “Computer Games As Interfaces.” *Interactions* 11 (5):
 This article tells about using the first-person-shooter game “Doom” as an interface for Windows&trade; Task Manager.
 
 
-----
-##First time you read
+
+
 
 ###What are the main claims?
 
@@ -24,20 +24,20 @@ This article tells about using the first-person-shooter game “Doom” as an in
 
 ###What questions do you have about the reading?
 
-----
-##Second time you read
+
+
 
 ###What’s the evidence for each of those claims?
 
-###Why was this reading assigned?
 
-###Answer your own questions if you can
 
-----
-##Third time you read
+
+
+
+
 
 ###What’s missing?
 
 ###What are the weaknesses in those claims and evidence?
 
-###What can you do with what you learned from this reading?
+
