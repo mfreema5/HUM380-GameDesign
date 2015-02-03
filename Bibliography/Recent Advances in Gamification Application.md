@@ -1,19 +1,14 @@
-#Computer Games As Interfaces.
+#How to Read Notes Template
 
-Chao, Dennis L. 2004. “Computer Games As Interfaces.” *Interactions* 11 (5): 71–72. doi:10.1145/1015530.1015567.
+Kim, Sangkyun. 2013. “Recent Advances in Gamification Application.” *Advances in Information Sciences & Service Sciences* 5 (13). http://www.aicit.org/AISS/ppl/AISS3629PPL.pdf.
 
 ###Who is the author?
 
-* Chao, Dennis L.
-  * Senior staff scientist &ndash; Fred Hutchinson Cancer Research Center, Seattle, WA
-  * Ph.D. in Computer Science
-    * University of New Mexico, Albuquerque, NM
-    * Dissertation: Modeling the cytotoxic T cell response.
+* Sangkyun Kim &ndash; Associate Professor, Department of Industrial Engineering, Kangwon National University, Republic of Korea
 
 ###What’s the article about?
 
-This article tells about using the first-person-shooter game “Doom” as an interface for Windows&trade; Task Manager.
-
+This article is a literature review of case studies about gamification.
 
 ----
 ##First time you read

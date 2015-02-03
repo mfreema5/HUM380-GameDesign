@@ -1,7 +1,6 @@
 #A User-Centered Theoretical Framework for Meaningful Gamification
 
-Nicholson, S. 2012. “A User-Centered Theoretical Framework for Meaningful Gamification.” In GLS 8.0 Conference Proceedings. Madison, WI, USA: ETC Press.
-
+Nicholson, S. 2012. “A User-Centered Theoretical Framework for Meaningful Gamification.” In *GLS 8.0 Conference Proceedings*. Madison, WI, USA: ETC Press.
 
 ###Who is the author?
 

@@ -1,6 +1,6 @@
 #“When the Experiment Is over: Deploying an Incentive System to All the Users
 
-Farzan, Rosta, Joan M. DiMicco, David R. Millen, Beth Brownholtz, Werner Geyer, and Casey Dugan. 2008. “When the Experiment Is over: Deploying an Incentive System to All the Users.” In Proceedings of the Symposium on Persuasive Technology, In Conjunction with the AISB. http://www.quilageo.com/wp-content/uploads/2013/07/When-the-experiment-is-over.pdf.
+Farzan, Rosta, Joan M. DiMicco, David R. Millen, Beth Brownholtz, Werner Geyer, and Casey Dugan. 2008. “When the Experiment Is over: Deploying an Incentive System to All the Users.” In *Proceedings of the Symposium on Persuasive Technology, In Conjunction with the AISB*. http://www.quilageo.com/wp-content/uploads/2013/07/When-the-experiment-is-over.pdf.
 
 ###Who is the author?
 
