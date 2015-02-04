@@ -1,6 +1,6 @@
 #Multifaceted Nature of Intrinsic Motivation: The Theory of 16 Basic Desires
 
-Reiss, Steven. 2004. “Multifaceted Nature of Intrinsic Motivation: The Theory of 16 Basic Desires.” *Review of General Psychology* 8 (3): 179–93. doi:10.1037/1089-2680.8.3.179.
+Reiss, Steven. 2004. &ldquoMultifaceted Nature of Intrinsic Motivation: The Theory of 16 Basic Desires.&rdquo *Review of General Psychology* 8 (3): 179–93. doi:10.1037/1089-2680.8.3.179.
 
 ###Who is the author?
 
@@ -11,10 +11,7 @@ Reiss, Steven. 2004. “Multifaceted Nature of Intrinsic Motivation: The Theory 
 
 ###What’s the article about?
 
-This article is not directly about “gamification”.  However, since the issue of motivation comes up repeatedly in gamification research, this article seems relevant.  It details a framework of 16 basic desires through which to understand human behaviors, and gives some basic empirical justification for them.
-
-
-
+This article is not directly about &ldquogamification&rdquo.  However, since the issue of motivation comes up repeatedly in gamification research, this article seems relevant.  It details a framework of 16 basic desires through which to understand human behaviors, and gives some basic empirical justification for them.
 
 ###What are the main claims?
 
@@ -22,17 +19,7 @@ This article is not directly about “gamification”.  However, since the issue
 
 ###What questions do you have about the reading?
 
-
-
-
 ###What’s the evidence for each of those claims?
-
-
-
-
-
-
-
 
 ###What’s missing?
 
