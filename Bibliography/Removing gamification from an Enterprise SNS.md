@@ -1,6 +1,6 @@
 #Removing Gamification from an Enterprise SNS
 
-Thom, Jennifer, David Millen, and Joan DiMicco. 2012. &ldquoRemoving Gamification from an Enterprise SNS.&rdquo In *Proceedings of the ACM 2012 Conference on Computer Supported Cooperative Work*, 1067–70. CSCW ’12. New York, NY, USA: ACM. doi:10.1145/2145204.2145362.
+Thom, Jennifer, David Millen, and Joan DiMicco. 2012. &ldquo;Removing Gamification from an Enterprise SNS.&rdquo; In *Proceedings of the ACM 2012 Conference on Computer Supported Cooperative Work*, 1067–70. CSCW ’12. New York, NY, USA: ACM. doi:10.1145/2145204.2145362.
 
 ###Who is the author?
 
@@ -24,7 +24,7 @@ If adding a points system raises participation, removing that points system will
 
 What is the non-game goal for users that the gamification is supposed to enhance?
 
-They report that short, low-value posts &ldquosubsided&rdquo after removing points system.  Did the compare proportions of long-to-short posts?  Did the points system only increase noise, and not signal?
+They report that short, low-value posts &ldquo;subsided&rdquo; after removing points system.  Did the compare proportions of long-to-short posts?  Did the points system only increase noise, and not signal?
 
 ###What’s the evidence for each of those claims?
 

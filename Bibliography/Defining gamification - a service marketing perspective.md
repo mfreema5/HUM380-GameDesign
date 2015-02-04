@@ -1,6 +1,6 @@
 #Defining Gamification: A Service Marketing Perspective
 
-Huotari, Kai, and Juho Hamari. 2012. &ldquoDefining Gamification: A Service Marketing Perspective.&rdquo In *Proceeding of the 16th International Academic MindTrek Conference*, 17–22. MindTrek ’12. New York, NY, USA: ACM. doi:10.1145/2393132.2393137.
+Huotari, Kai, and Juho Hamari. 2012. &ldquo;Defining Gamification: A Service Marketing Perspective.&rdquo; In *Proceeding of the 16th International Academic MindTrek Conference*, 17–22. MindTrek ’12. New York, NY, USA: ACM. doi:10.1145/2393132.2393137.
 
 ###Who is the author?
 
@@ -9,7 +9,7 @@ Huotari, Kai, and Juho Hamari. 2012. &ldquoDefining Gamification: A Service Mark
 
 ###What’s the article about?
 
-The authors of this article frame &ldquogamification&rdquo in terms of the marketing of services, emphasizing the experience of gamefulness, instead of the systems of games.
+The authors of this article frame &ldquo;gamification&rdquo; in terms of the marketing of services, emphasizing the experience of gamefulness, instead of the systems of games.
 
 ###What are the main claims?
 
@@ -44,4 +44,4 @@ There's little-to-no evidence, and they fail to properly situate their theory in
 
 References:
 
-* Deterding, S., Dixon, D., Khaled R., & Nacke L., (2011). *From Game Design Elements to Gamefulness: Defining &ldquoGamification&rdquo*, Proceedings of MindTrek, 2011
+* Deterding, S., Dixon, D., Khaled R., & Nacke L., (2011). *From Game Design Elements to Gamefulness: Defining &ldquo;Gamification&rdquo;*, Proceedings of MindTrek, 2011

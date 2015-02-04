@@ -1,6 +1,6 @@
 #Effects of the Gamified Class in Engineering Education Environments
 
-Kim, Sangkyun. 2013. &ldquoEffects of the Gamified Class in Engineering Education Environments.&rdquo *Journal of Convergence Information Technology* 8: 13.
+Kim, Sangkyun. 2013. &ldquo;Effects of the Gamified Class in Engineering Education Environments.&rdquo; *Journal of Convergence Information Technology* 8: 13.
 
 ###Who is the author?
 

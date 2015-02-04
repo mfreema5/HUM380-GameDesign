@@ -1,6 +1,6 @@
 #Does Gamification Work? – A Literature Review of Empirical Studies on Gamification
 
-Hamari, J., J. Koivisto, and H. Sarsa. 2014. &ldquoDoes Gamification Work? – A Literature Review of Empirical Studies on Gamification.&rdquo In *2014 47th Hawaii International Conference on System Sciences*, 3025–34. doi:10.1109/HICSS.2014.377.
+Hamari, J., J. Koivisto, and H. Sarsa. 2014. &ldquo;Does Gamification Work? – A Literature Review of Empirical Studies on Gamification.&rdquo; In *2014 47th Hawaii International Conference on System Sciences*, 3025–34. doi:10.1109/HICSS.2014.377.
 
 ###Who is the author?
 

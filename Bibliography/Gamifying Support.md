@@ -1,6 +1,6 @@
 #Gamifying Support
 
-Sampanes, Anthony Chad. 2013. &ldquoGamifying Support.&rdquo In *Human-Computer Interaction. Applications and Services*, edited by Masaaki Kurosu, 284–91. Lecture Notes in Computer Science 8005. Springer Berlin Heidelberg. http://link.springer.com/chapter/10.1007/978-3-642-39262-7_32.
+Sampanes, Anthony Chad. 2013. &ldquo;Gamifying Support.&rdquo; In *Human-Computer Interaction. Applications and Services*, edited by Masaaki Kurosu, 284–91. Lecture Notes in Computer Science 8005. Springer Berlin Heidelberg. http://link.springer.com/chapter/10.1007/978-3-642-39262-7_32.
 
 ###Who is the author?
 
@@ -12,7 +12,7 @@ The author presents a generalist How-To for the gamification of customer support
 
 ###What are the main claims?
 
-Gamification of a technical support system through adding points systems, scoreboards, badges, rewards, etc., will have &ldquosignificant positive effects&rdquo on outcomes.  Customers will be motivated to create support content and to self-server; support personel will show an increase in job satisfaction and positivity, and will provide better customer service.
+Gamification of a technical support system through adding points systems, scoreboards, badges, rewards, etc., will have &ldquo;significant positive effects&rdquo; on outcomes.  Customers will be motivated to create support content and to self-server; support personel will show an increase in job satisfaction and positivity, and will provide better customer service.
 
 ###What are the conclusions?
 
@@ -39,7 +39,7 @@ He also fails to use gamification to help explain his points:
 
 >The monotony of a support engineer’s job often causes engineers to lose interest in their job and cut corners. Gamification can help to both reward complex tasks and encourage the following of rote processes that have little intrinsic reward for their completion. (pg. 289)
 
-An obvious way to gamify that issue is to discuss it as sending player with a high-level character in an massively-multiplayer online role-playing game on a low-level quest.  It's inevitable that they will get bored and wander off the established path for completing the quest; perhaps intentionally &ldquodoing things the hard way&rdquo.
+An obvious way to gamify that issue is to discuss it as sending player with a high-level character in an massively-multiplayer online role-playing game on a low-level quest.  It's inevitable that they will get bored and wander off the established path for completing the quest; perhaps intentionally &ldquo;doing things the hard way&rdquo;.
 
 Points and badges and such won't stop that player from being bored.  It's not going to stop the technician from being bored, either.
 

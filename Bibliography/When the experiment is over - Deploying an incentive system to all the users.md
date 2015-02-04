@@ -1,6 +1,6 @@
-#&ldquoWhen the Experiment Is over: Deploying an Incentive System to All the Users
+#&ldquo;When the Experiment Is over: Deploying an Incentive System to All the Users
 
-Farzan, Rosta, Joan M. DiMicco, David R. Millen, Beth Brownholtz, Werner Geyer, and Casey Dugan. 2008. &ldquoWhen the Experiment Is over: Deploying an Incentive System to All the Users.&rdquo In *Proceedings of the Symposium on Persuasive Technology, In Conjunction with the AISB*. http://www.quilageo.com/wp-content/uploads/2013/07/When-the-experiment-is-over.pdf.
+Farzan, Rosta, Joan M. DiMicco, David R. Millen, Beth Brownholtz, Werner Geyer, and Casey Dugan. 2008. &ldquo;When the Experiment Is over: Deploying an Incentive System to All the Users.&rdquo; In *Proceedings of the Symposium on Persuasive Technology, In Conjunction with the AISB*. http://www.quilageo.com/wp-content/uploads/2013/07/When-the-experiment-is-over.pdf.
 
 ###Who is the author?
 
@@ -39,5 +39,5 @@ The explanation of the quantitative results doesn't seem complete.
 
 I'm a bit baffled as to why the first qualitative analysis cncerning the impact of sending an email notifying users about their points on the system included those users who did not have the points system.  The article says they were included as a control, but to control for what?  They demonstrated in a later analysis that the two groups&mdash;users with the points system, and those without&mdash;behaved differently.  How can a group that behaves differently act as a control group?
 
-The results are then described as &ldquonot statistically significant&rdquo, but no confidence level is listed.  Not statistically significant at 95%, 90%, 80%?  But it's something of a moot point, since the authors then say that the evidence supports their claim, despite failing to reject the null hypothesis.
+The results are then described as &ldquo;not statistically significant&rdquo;, but no confidence level is listed.  Not statistically significant at 95%, 90%, 80%?  But it's something of a moot point, since the authors then say that the evidence supports their claim, despite failing to reject the null hypothesis.
 

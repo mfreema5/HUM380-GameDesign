@@ -1,6 +1,6 @@
 #Computer Games As Interfaces.
 
-Chao, Dennis L. 2004. &ldquoComputer Games As Interfaces.&rdquo *Interactions* 11 (5): 71–72. doi:10.1145/1015530.1015567.
+Chao, Dennis L. 2004. &ldquo;Computer Games As Interfaces.&rdquo; *Interactions* 11 (5): 71–72. doi:10.1145/1015530.1015567.
 
 ###Who is the author?
 
@@ -12,17 +12,17 @@ Chao, Dennis L. 2004. &ldquoComputer Games As Interfaces.&rdquo *Interactions* 1
 
 ###What’s the article about?
 
-This article tells about using the first-person-shooter game &ldquoDoom&rdquo as an interface for Windows&trade; Task Manager.
+This article tells about using the first-person-shooter game &ldquo;Doom&rdquo; as an interface for Windows&trade; Task Manager.
 
 ###What are the main claims?
 
 Using the complete interface from a game as the front-end for system administration software would make system administration tasks more fun.
 
-Since aggressive language is used to describe system administration tasks associated with monitoring, and modifying, running processes on a computer (&ldquokilling&rdquo, etc.), the first-person-shooter game &ldquoDoom&rdquo should make an appropriate front-end.
+Since aggressive language is used to describe system administration tasks associated with monitoring, and modifying, running processes on a computer (&ldquo;killing&rdquo;, etc.), the first-person-shooter game &ldquo;Doom&rdquo; should make an appropriate front-end.
 
 ###What are the conclusions?
 
-Despite the alignment of language about &ldquospawning daemons&rdquo, and &ldquokilling&rdquo applications, the metaphor of Doom does not match very well to the actual task at hand.  In particular, while some monsters are more deadly than others, they all appear deadly.  There was no mechanism in PSDoom for distinguishing well-behave processes/monsters, or for flagging the critical ones.
+Despite the alignment of language about &ldquo;spawning daemons&rdquo;, and &ldquo;killing&rdquo; applications, the metaphor of Doom does not match very well to the actual task at hand.  In particular, while some monsters are more deadly than others, they all appear deadly.  There was no mechanism in PSDoom for distinguishing well-behave processes/monsters, or for flagging the critical ones.
 
 ###What questions do you have about the reading?
 

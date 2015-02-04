@@ -1,6 +1,6 @@
 #How to Read Notes Template
 
-Kim, Sangkyun. 2013. &ldquoRecent Advances in Gamification Application.&rdquo *Advances in Information Sciences & Service Sciences* 5 (13). http://www.aicit.org/AISS/ppl/AISS3629PPL.pdf.
+Kim, Sangkyun. 2013. &ldquo;Recent Advances in Gamification Application.&rdquo; *Advances in Information Sciences & Service Sciences* 5 (13). http://www.aicit.org/AISS/ppl/AISS3629PPL.pdf.
 
 ###Who is the author?
 
