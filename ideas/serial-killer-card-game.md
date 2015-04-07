@@ -18,6 +18,9 @@ Kill, kill, kill!&mdash;but don't get caught.  The winner is the last serial kil
 * **Jack** &ndash; *corpse*
 * Numbered cards - *missed opportunity!*
 
+## Layout
+![dead simple diagram](img/DeadSimpleDiagram-scaled.png)
+
 ## Gameplay
 
 Each player gets 6 counters.  The counters are *clues*.  Once the police have all 6 of a player's *clues*, they identify the player as a serial killer, and arrested that player&mdash;the player is out of the game.  The last player with *clues* left is still “on the loose”, and wins the game.
