@@ -13,8 +13,8 @@ Kill, kill, kill!&mdash;but don't get caught.  The winner is the last serial kil
 ## Card summary
 
 * **Ace** &ndash; *informant*
-* **King** &ndash; victim
-* **Queen** &ndash; victim
+* **King** &ndash; *victim*
+* **Queen** &ndash; *victim*
 * **Jack** &ndash; *corpse*
 * Numbered cards - *missed opportunity!*
 
