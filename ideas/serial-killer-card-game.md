@@ -19,7 +19,7 @@ Kill, kill, kill!&mdash;but don't get caught.  The winner is the last serial kil
 * Numbered cards - *missed opportunity!*
 
 ## Layout
-![dead simple diagram](img/DeadSimpleDiagram-scale30.png)
+![dead simple diagram](img/tex-able.png)
 
 ## Gameplay
 
