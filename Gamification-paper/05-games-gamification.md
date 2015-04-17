@@ -33,15 +33,6 @@ For this review and guide:
 > Gamification is using game-like design to make the outcomes of user actions easily discernable; to show the user how outcomes integrate into achieving goals; to foster the user's own cognitive, emotional and social motivations; and to increase the likelihood of the user becoming a player through having a gameful experience. 
 
 
-
-
-
-
-
-
-
-
-
 ----
 
 ## References

@@ -1,6 +1,5 @@
 ## Case Studies
 
-
 ### UbiAsk & EcoIsland
 
 The article “Gamifying Intelligent Environments” (Liu *et al.* 2011) presents case studies of the gamification of two applications: UbiAsk, “a mobile crowd-sourcing application designed for image based social search across languages”, and EcoIsland, “a persuasive application for motivating users to reduce CO2 emissions”.
@@ -24,9 +23,6 @@ The purpose of the application is to provide travlers with rapid translation and
 The players are not paid, and UbiAsk is a “non-paid service”.  But, since “there is no such thing as a free lunch”, presumably the application is supported by advertisements.  So, the service gets paid, and the players do not.
 
 The goal, then, of UbiAsk is to make money for the organization.  It is “exploitationware”.
-
-
-
 
 ----
 
