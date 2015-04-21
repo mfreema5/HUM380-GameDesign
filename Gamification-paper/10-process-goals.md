@@ -6,10 +6,12 @@ The basic gamification process is to identify goals, understand the motivations 
 
 ### Goals
 
-The biggest difference between games and gamified systems is the locus of the goals.  The goals in games are within the game itself; in a gamified system the ultimate goals are outside of the game-like parts of the system, or possibly outside of the system entirely.
+The biggest difference between games and gamified systems is the locus of the goals.  The goals in games are within the game itself; in a gamified system the ultimate goals are outside of the game-like parts of the system, or possibly outside of the system entirely. But even though the goals may be outside of the gamified system itself, they are still at the core of the purpose and the process of gamification; similarly, they are also at the core of the values and ethics of the gamification process.
 
-Not only are goals at the core of the purpose and the process of gamification, they are also at the core of the values and ethics of the gamification process.    
 
+
+
+Thus “meaningful gamification puts the needs and goals of the users over the needs of the organization,” though this doesn't mean that the organization is not a beneficiary of a well-gamified system, since “if users have a positive and meaningful game-based experience that is well-connected to the underlying non-game setting… the organization will benefit in the long term” (Nicholson 2012).
 
 
 
@@ -22,13 +24,19 @@ Not only are goals at the core of the purpose and the process of gamification, t
         * “…A concurrent shift towards user-centred design, accounting for the situatedness of the participant.” (Conway 2014)
       1. Supporting user goals can indirectly achieve organizational goals
         * “If users have a positive and meaningful game-based experience that is well-connected to the underlying non-game setting, then the organization will benefit in the long term.” (Nicholson 2012)
-  1. Identify user motivations to achieve goals
-    1. Motivation theory
-      * Theory of 16 basic desires &ndash; Reiss 2004
-      * Self-determination theory &ndash; Ryan and Deci 2000; Gagné and Deci 2005
-    1. Motivations are entirely extrinsic? Not a user goal.
-  1. Identify ways to support & reinforce employee motivations with game elements
-    1. Use game elements (‘points!’) to provide timely, situated feedback
-      * “Feedback needs to be specific and relevant if it is to motivate…. We already know that goals will not be effective without feedback, and performance information helps people clarify expectancies….” (Siegall 1988)
-    1. Make sure any rewards communicate the right goals
-      * “Reward presented repeatedly in a nonsalient fashion for a high degree of divergent thinking acts to increase subsequent creativity on an entirely new task. …In contrast, rewarding a low degree of originality produces a decrease in generalized creativity.” (Eisenberger and Cameron 1996)
+
+
+
+
+
+If organizational goals are the center of a gamified system, then the system may be a “technological whip” used by the organization for surveillance, monitoring and performance tracking (Raftopoulos 2014).
+
+
+----
+
+## References
+
+* Nicholson, S. 2012. “A User-Centered Theoretical Framework for Meaningful Gamification.” In *GLS 8.0 Conference Proceedings*. Madison, WI, USA: ETC Press.
+
+
+* Raftopoulos, Marigo. 2014. “Towards Gamification Transparency: A Conceptual Framework for the Development of Responsible Gamified Enterprise Systems.” *Journal of Gaming & Virtual Worlds* 6 (2): 159–78. doi:10.1386/jgvw.6.2.159_1.
