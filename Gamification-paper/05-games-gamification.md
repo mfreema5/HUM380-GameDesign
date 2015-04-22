@@ -28,23 +28,13 @@ So, while elements of game design are indicative of an attempt at gamification, 
 
 A useful definition of gamification, it would seem, should include not only the resulting elements, but also the process by which those elements were chosen, and the goals for which those elements were chosen.  Such a definition doesn't seem to exist in the literature.
 
-For this review and guide: 
-
-> Gamification is using game-like design to make the outcomes of user actions easily discernable; to show the user how outcomes integrate into achieving goals; to foster the user's own cognitive, emotional and social motivations; and to increase the likelihood of the user becoming a player through having a gameful experience. 
-
-
 ----
 
 ## References
 
 * Deterding, Sebastian, Dan Dixon, Rilla Khaled, and Lennart Nacke. 2011. “From Game Design Elements to Gamefulness: Defining ‘Gamification.’” In *Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments, 9–15. MindTrek ’11*. New York, NY, USA: ACM. doi:10.1145/2181037.2181040.
-
 * Deterding, Sebastian. 2012. “Gamification: Designing for Motivation.” *Interactions* 19 (4): 14–17. doi:10.1145/2212877.2212883.
-
-* Ferrara, John. 2012. Playful Design. 1st ed. Brooklyn, New York: Rosenfeld Media.
-
+* Ferrara, John. 2012. *Playful Design: Creating Game Experiences in Everyday Interfaces*. 1st ed. Brooklyn, New York: Rosenfeld Media.
 * Huotari, Kai, and Juho Hamari. 2012. “Defining Gamification: A Service Marketing Perspective.” In *Proceeding of the 16th International Academic MindTrek Conference, 17–22. MindTrek ’12*. New York, NY, USA: ACM. doi:10.1145/2393132.2393137.
-
 * Robertson, Margaret. 2010. “Can’t Play, Won’t Play.” *Hide&Seek*. Accessed April 5, 2015. http://www.hideandseek.net/2010/10/06/cant-play-wont-play.
-
 * Salen, Katie, and Eric Zimmerman. 2004. *Rules of Play : Game Design Fundamentals*. Cambridge, Mass.: MIT Press.
