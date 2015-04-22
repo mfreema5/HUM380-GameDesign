@@ -6,9 +6,9 @@
 
 The process of gamification is nearly always being applied on a digital platform, so for the purposes of this review and guide, only digital games are included in the discussion.  
 
-What distinguishes a digital game from other applications is that a digital game creates meaningful play.  The meaning that emerges from play is a product of the relationship within the game between actions and outcomes.  There are two specific relationships required.  The first is that actions must have immediate outcomes, for which the player can *discern* the outcome's causation and nature.  The second is that the outcomes of actions must *integrate* with the outcomes of other actions in that they all have effects on the larger context of the over-all game. (Salen and Zimmerman 2004)  
+What distinguishes a digital game from non-game applications is that a digital game creates meaningful play.  Meaningful play comes in part from allowing users to make “choices that influence the outcomes of events” (Ferrara 2012). That interaction between choices and outcomes can be broken down further: the actions a user chooses must have immediate outcomes, for which the player can *discern* the outcome's causation and nature. And the outcomes of actions must *integrate* with the outcomes of other actions in that they all have effects on the larger context of the over-all game. (Salen and Zimmerman 2004)  
 
-Games create meaningful play by having actions with *integrated*, *discernable* outcomes.  Another way to consider those relationships is to say that, in a game actions provide immediate *feedback*, which then helps the player in her *progress* toward a goal.  The terms “feedback” and “progress” show up often in the literature about gamification, presumably because they map directly to the core characteristics of what distinguishes a game from undirected play.
+Games create meaningful play by having actions with *integrated*, *discernable* outcomes.  Another way to consider those relationships is to say that game actions provide immediate *feedback*, and the combined feedbacks determine the player's *progress* toward a goal.  The terms “feedback” and “progress” show up often in the literature about gamification, presumably because they map directly to the core characteristics of what distinguishes a game from both undirected play and other non-games.
 
 ## What is gamification?
 
@@ -40,6 +40,8 @@ For this review and guide:
 * Deterding, Sebastian, Dan Dixon, Rilla Khaled, and Lennart Nacke. 2011. “From Game Design Elements to Gamefulness: Defining ‘Gamification.’” In *Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments, 9–15. MindTrek ’11*. New York, NY, USA: ACM. doi:10.1145/2181037.2181040.
 
 * Deterding, Sebastian. 2012. “Gamification: Designing for Motivation.” *Interactions* 19 (4): 14–17. doi:10.1145/2212877.2212883.
+
+* Ferrara, John. 2012. Playful Design. 1st ed. Brooklyn, New York: Rosenfeld Media.
 
 * Huotari, Kai, and Juho Hamari. 2012. “Defining Gamification: A Service Marketing Perspective.” In *Proceeding of the 16th International Academic MindTrek Conference, 17–22. MindTrek ’12*. New York, NY, USA: ACM. doi:10.1145/2393132.2393137.
 
