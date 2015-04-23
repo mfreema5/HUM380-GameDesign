@@ -4,25 +4,13 @@ As mentioned in the description of the utility of self-determination theory, it 
 
 A specific example is the intrinsic motivation for knowledge, and the purported intellectual pleasure that drives it. And yet “many scientists have written about the agony of the creative inquiry process and the emotional ups and downs of research” (Reiss 2004).
 
+Instead of pleasure or interest or enjoyment, the distinction between extrinsic and intrinsic motivations is made based on the location of the consequence or outcome of the behavior.  Intrinsic motivations are linked to internal outcomes, and extrinsic motivations are linked to external outcomes.
 
+(Conway seems to be a mid-point between self-determination theory and Reiss's 16 motives: “Intrinsic motivation is intimately tied to the locus of control, part of one’s sense of autonomy. As we have discussed, external rewards can cause a shift in an individual’s sense of the locus of control, as moving away from the person towards the source of the reward” (Conway 2014). Like Reiss, he seems to link a motivation's type to it being either internal or external; but like Gagné and Deci (2005) he talks not of ‘outcomes’, but rather of ‘control’.)
 
+The internal outcomes for Reiss' 16 intrinsic motivations are a matching 16 intrinsic desires.  (See Table 1.)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+##### Table 1
 
 | Motive name       | Motive                                    | Intrinsic feeling             |
 |-------------------|-------------------------------------------|-------------------------------|
@@ -46,7 +34,7 @@ A specific example is the intrinsic motivation for knowledge, and the purported 
 
 
 
-
+* Conway, Steven. 2014. “Zombification?: Gamification, Motivation, and the User.” *Journal of Gaming & Virtual Worlds* 6 (2): 129–41. doi:10.1386/jgvw.6.2.129_1.
 
 * Reiss, Steven. 2004. “Multifaceted Nature of Intrinsic Motivation: The Theory of 16 Basic Desires.” *Review of General Psychology* 8 (3): 179–93. doi:10.1037/1089-2680.8.3.179.
 
