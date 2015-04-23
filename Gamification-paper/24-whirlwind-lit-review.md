@@ -26,7 +26,6 @@ Timely feedback is key to keeping users motivated.  But feedback should integrat
 
 And to what motivation does it relate? Anonymous rankings don't promote a social image/status motive or any of the motives that non-anonymous leaderboards might.  Knowing her rank in class won't improve a user's sense of autonomy.  Worse, focusing on an external outcome such as a leaderboard, can shift her intrinsic motivations into extrinsic ones.
 
-
 #### “A Case Study in the Gamification of a University-Level Games Development Course”
 
 * O’Donovan, Siobhan, James Gain, and Patrick Marais. 2013. “A Case Study in the Gamification of a University-Level Games Development Course.” In *Proceedings of the South African Institute for Computer Scientists and Information Technologists Conference, 242–51. SAICSIT ’13*. New York, NY, USA: ACM. doi:10.1145/2513456.2513469.
@@ -41,7 +40,6 @@ And they confuse promoting intrinsic motivation with manipulation: “Gamificati
 
 They later explain that while they believe that good gamification manipulates behavior (instead of improving motivations) this should be hidden from users by creating a “illusion” of autonomy: “…if users feel that they are being manipulated, they may notice that their freedom within the product is an illusion”.
 
-
 #### “Research in the Large: Challenges for Large-Scale Mobile Application Research &ndash; A Case Study about NFC Adoption Using Gamification via an App Store”
 
 * Kranz, Matthias, Lukas Murmann, and Florian Michahelles. 2013. “Research in the Large: Challenges for Large-Scale Mobile Application Research- A Case Study about NFC Adoption Using Gamification via an App Store.” *International Journal of Mobile Human Computer Interaction* 5 (1): 45–61. doi:10.4018/jmhci.2013010103.
@@ -52,7 +50,7 @@ The authors report that “most users are unaware of the game's purpose as a res
 
 ### “Gamifying Support”
 
-* Sampanes, Anthony Chad. 2013. “Gamifying Support.” In *Human-Computer Interaction. Applications and Services*, edited by Masaaki Kurosu, 284–91. Lecture Notes in Computer Science 8005. Springer Berlin Heidelberg. doi:10.1007/978-3-642-39262-7_32. ._.
+* Sampanes, Anthony Chad. 2013. “Gamifying Support.” In *Human-Computer Interaction. Applications and Services*, edited by Masaaki Kurosu, 284–91. Lecture Notes in Computer Science 8005. Springer Berlin Heidelberg. doi:10.1007/978-3-642-39262-7_32.
 
 The author of “Gamifying Support” gets off to a good start, by stating that “Points serve as feedback and track progression”, and by recommending that points are tied to “the behaviors your company wants to reinforce”.
 
@@ -64,12 +62,9 @@ In a final irony, the author explains one of the potential hazards of gamificati
 
 Which is ironic because the game is dehumanifying the employees.  Indeed, the customer support engineer gamification as described in “Gamifying Support” easily embodies four of the seven “Value Destruction Risks” of gamification (Raftopoulos 2014).
 
-                                                                                            * *Coercive participation* &ndash; users that “are under pressure and obligation to perform and are aware that they are being scrutinized, measured and evaluated” are less likely to have a gameful experience
-
+* *Coercive participation* &ndash; users that “are under pressure and obligation to perform and are aware that they are being scrutinized, measured and evaluated” are less likely to have a gameful experience
 * *The technological whip* &ndash; the gamified system is used by the organization for surveillance, monitoring and performance tracking.
-
 * *Homogenization of the workforce* &ndash; “self optimizing systems” encourage behavioral conformity, but do not shift attitudes; creativity and individuality are discouraged.
-
 * *Shallow and inauthentic* &ndash; the gamified system is less about fun than about distracting employees from organizational dysfunctions and the methods by which the organization is controlling them.
 
 
@@ -85,8 +80,7 @@ Which is ironic because the game is dehumanifying the employees.  Indeed, the cu
 
 * Sampanes, Anthony Chad. 2013. “Gamifying Support.” In *Human-Computer Interaction. Applications and Services*, edited by Masaaki Kurosu, 284–91. Lecture Notes in Computer Science 8005. Springer Berlin Heidelberg. doi:10.1007/978-3-642-39262-7_32.
 
-* Raftopoulos, Marigo. 2014. “Towards Gamification Transparency: A Conceptual Framework for the Development of Responsible Gamified Enterprise Systems.” Journal of Gaming & Virtual Worlds 6 (2): 159–78. doi:10.1386/jgvw.6.2.159_1.
-
+* Raftopoulos, Marigo. 2014. “Towards Gamification Transparency: A Conceptual Framework for the Development of Responsible Gamified Enterprise Systems.” *Journal of Gaming & Virtual Worlds* 6 (2): 159–78. doi:10.1386/jgvw.6.2.159_1.
 
 * Robertson, Margaret. 2010. “Can’t Play, Won’t Play.” *Hide&Seek*. October 6. http://www.hideandseek.net/2010/10/06/cant-play-wont-play.
 
