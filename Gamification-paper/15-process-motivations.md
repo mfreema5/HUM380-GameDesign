@@ -1,8 +1,8 @@
 ### Motivations
 
-The promise of gamification is motivation (Deterding 2012).  People will *want* to use the gamified application.
+The promise of gamification is motivation&mdash;people will *want* to use the gamified application (Deterding 2012).
 
-The question of user motivation can be approached from a variety of directions.  Here we'll look at examples from three of them.  Motivations as understood through the what games people are motivated to play; motivations as they relate to workplace performance; and the underlying motivations that drive all human behavior.
+The gamification literature has sparse coverage of motivation theory, so for this review I will borrow from other fields.  There are three parts to this section, the first considers motivations as understood through the games that people are motivated to play; the second covers motivations as they relate to workplace performance; and the third covers the underlying desires that drive all human behavior, and the  motivations that tie the desires to the behaviors.
 
 ----
 
