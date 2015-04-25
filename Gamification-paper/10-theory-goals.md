@@ -1,10 +1,10 @@
-## Process of gamification
+## Goals and motivations
 
 The general frameworks given in the literature for how to go through a gamification project largely mirror one of the approaches used in either user experience (UX) design or game design. Which is not surprising, since gamification would seem to be the bridge between the two fields.
 
 >“User experience design and video game design are something like siblings who were raised in separate homes. It’s easy to understand both as forms of human-computer interaction and as centrally concerned with the design of experience. But UX design creates experiences that help people meet their real-world needs, whereas game design is about the experience for the sake of the experience.” (Ferrara 2012)
 
-The follow sections focus on the issues of defining project objects, and understanding user motivations, since these seem to be the areas where the process diverges most from both of the parent fields of UX, and game design. 
+This section focuses on the issue of defining project objects, and the following section will cover user motivations.  These two seem to be the areas where the process of gamification diverges most from both of its parent fields, UX and game design. 
 
 ### Goals
 

@@ -1,6 +1,6 @@
-# Gamification – Literature review and guide
+# Definition
 
-## Intro
+The first topic in review the theory-classed sources is the definition of “gamification”.  This is necessarily preceded by a brief review of the definition of a digital game.
 
 ## What is a digital game?
 
@@ -27,6 +27,8 @@ So, while elements of game design are indicative of an attempt at gamification, 
 > “Past definitions rely on the notion that gamification is based on the use of game elements. However, there doesn’t seem to exist a clearly defined set of game elements which would be strictly unique to games, neither [do] they automatically create gameful experiences. We can find similar elements from a variety of non-game contexts as well. …We argue that the definition of gamification… cannot be based on a set of methods or mechanics, but instead it has to be understood more broadly as a process in which the gamifier is attempting to increase the likelihood for the gameful experiences to emerge by imbuing the service with affordances for that purpose (be it badges or more implicit cues).” (Huotari and Hamari 2012)
 
 A useful definition of gamification, it would seem, should include not only the resulting elements, but also the process by which those elements were chosen, and the goals for which those elements were chosen.  Such a definition doesn't seem to exist in the literature.
+
+Though there is no a consensus on a complete definition of gamification, there is enough agreement on what gamification is&mdash;or perhaps what it should be&mdash;for there to be coverage in the literature of other issues such as the goals and objectives of gamification projects, which is the first topic in the next section of this review.
 
 ----
 
