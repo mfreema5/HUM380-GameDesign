@@ -1,4 +1,4 @@
-#### Motivations &ndash; generalized
+### Motivations &ndash; generalized
 
 As mentioned in the description of the utility of self-determination theory, it has been proposed that “[Intrinsic Motivation] theorists may have erred in embracing hedonism, the philosophy that pleasure motivates behavior,” and that “we may question whether [Intrinsic Motivation] theorists have exaggerated the extent to which certain activities really are pleasurable” (Reiss 2004).
 
@@ -10,7 +10,7 @@ Instead of pleasure or interest or enjoyment, the distinction between extrinsic 
 
 The internal outcomes for Reiss' 16 intrinsic motivations are a matching 16 intrinsic desires.  (See Table 1.)
 
-##### Table 1
+#### Table 1
 
 | Motive name       | Motive                                    | Intrinsic feeling             |
 |-------------------|-------------------------------------------|-------------------------------|

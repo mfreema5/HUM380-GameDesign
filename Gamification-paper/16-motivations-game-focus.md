@@ -1,4 +1,4 @@
-#### Motivations &ndash; game focus
+### Motivations &ndash; game focus
 
 There is a list of motivations in “Playful Design &ndash; Creating game experiences in everyday interfaces” (Ferrara 2012) that is from the perspective of a game designer.  It attempts to answer the question of why people are motivated to play the games they play.
 

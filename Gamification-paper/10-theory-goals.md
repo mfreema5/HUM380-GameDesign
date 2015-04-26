@@ -1,4 +1,4 @@
-## Goals and motivations
+# Goals and motivations
 
 The general frameworks given in the literature for how to go through a gamification project largely mirror one of the approaches used in either user experience (UX) design or game design. Which is not surprising, since gamification would seem to be the bridge between the two fields.
 
@@ -6,7 +6,7 @@ The general frameworks given in the literature for how to go through a gamificat
 
 This section focuses on the issue of defining project objects, and the following section will cover user motivations.  These two seem to be the areas where the process of gamification diverges most from both of its parent fields, UX and game design. 
 
-### Goals
+## Goals
 
 Both Raftopoulos (2014) and Ferrara (2012) explicitly advise to start a gamification project by determining the goals for the system. But what those goals are&mdash;or at least what they should be&mdash;is not an obvious question. To begin with, how can you properly balance the goals of the organization and the goals of the users?
 

@@ -1,4 +1,4 @@
-#### Motivations &ndash; workplace focus
+### Motivations &ndash; workplace focus
 
 Self-determination theory is a work motivation theory that focuses “on the relative strength of autonomous versus controlled motivation” (Gagné and Deci 2005). Much as with game-focused motivation and the desire to play a game, the strength of *autonomy* in motivations has a ‘very strong’ influence on work performance.
 

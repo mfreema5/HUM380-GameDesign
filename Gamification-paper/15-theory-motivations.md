@@ -1,4 +1,4 @@
-### Motivations
+## Motivations
 
 The promise of gamification is motivation&mdash;people will *want* to use the gamified application (Deterding 2012).
 
