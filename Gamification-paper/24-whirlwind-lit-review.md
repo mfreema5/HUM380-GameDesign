@@ -1,8 +1,31 @@
 ## A whirlwind literature review
 
-The previous sections may seem like an excessive amount of space to spend on theories of human motivation in a paper ostensibly about gamification.  But a solid foundation in some of the ways to analyze and discuss motivations, along with a good understanding of the difference between user and organizational goals, would seem to be important for a review of the gamification literature.  Because much of that literature seems to be missing an appropriate understanding of either user v. organizational goals, or motivations, or both.
+Having gathered the theory side of the gamification literature, and added in some motivation theory from other fields, I can use those to evaluate the practical gamification literature. Specifically, I  critically consider two broad issues: one is whether the goals of the project and/or gamified application are those of the organization or of the user; the other is the correlation between goals, motivations, and the game design elements used.
 
-This section contains some brief examples.
+In general, I focus on examples of failures to account for user goals, or failures to align goals, motivations and game design elements.
+
+### Practical advice on gamification
+
+#### “Gamifying Support”
+
+* Sampanes, Anthony Chad. 2013. “Gamifying Support.” In *Human-Computer Interaction. Applications and Services*, edited by Masaaki Kurosu, 284–91. Lecture Notes in Computer Science 8005. Springer Berlin Heidelberg. doi:10.1007/978-3-642-39262-7_32.
+
+The author of “Gamifying Support” gets off to a good start, by stating that “Points serve as feedback and track progression”, and by recommending that points are tied to “the behaviors your company wants to reinforce”.
+
+However, when describing how points can applied to customer support engineers, while they are  referred to as being part of a “feedback loop” they are no longer feedback.  Instead, they have become a work-performance metric: “How customers respond to survey’s about the quality of their interaction… could provide another source of points for the engineer.… The feedback loop for them seeing the points accumulated from “tough” calls and how this is tracked and shared with the organization can help keep the engineer focused on the solution while working to keep their composure in stressful times. Other metrics, based on analytics within a call or support center can also drive points, badges, and esteem….”
+
+Also, the author's only explanation for why a customer support engineer would be motivated to “overcome harder challenges” and “attain higher levels” is that doing so would “brings novelty into their work environment (where there otherwise wasn’t)”.  In other words, the only motivation is the obvious ‘fun’ to be had.
+
+In a final irony, the author explains one of the potential hazards of gamification: “Gamifying support could result in dehumanifying customers. Be careful that support engineers don’t get so caught up in the ‘game’ that they forget that customers are individuals whose feelings and thoughts must be considered throughout the process.”
+
+Which is ironic because the game is dehumanifying the employees.  Indeed, the customer support engineer gamification as described in “Gamifying Support” easily embodies four of the seven “Value Destruction Risks” of gamification (Raftopoulos 2014).
+
+* *Coercive participation* &ndash; users that “are under pressure and obligation to perform and are aware that they are being scrutinized, measured and evaluated” are less likely to have a gameful experience
+* *The technological whip* &ndash; the gamified system is used by the organization for surveillance, monitoring and performance tracking.
+* *Homogenization of the workforce* &ndash; “self optimizing systems” encourage behavioral conformity, but do not shift attitudes; creativity and individuality are discouraged.
+* *Shallow and inauthentic* &ndash; the gamified system is less about fun than about distracting employees from organizational dysfunctions and the methods by which the organization is controlling them.
+
+### Gamification case studies 
 
 #### “Gamifying Intelligent Environments”
 
@@ -44,29 +67,11 @@ They later explain that while they believe that good gamification manipulates be
 
 * Kranz, Matthias, Lukas Murmann, and Florian Michahelles. 2013. “Research in the Large: Challenges for Large-Scale Mobile Application Research- A Case Study about NFC Adoption Using Gamification via an App Store.” *International Journal of Mobile Human Computer Interaction* 5 (1): 45–61. doi:10.4018/jmhci.2013010103.
 
-As mentioned previously, the project detailed in “Research in the Large: Challenges for Large-Scale Mobile Application Research- A Case Study about NFC Adoption Using Gamification via an App Store” is most notable for its goals.  More exactly, for actively hiding the project's goals, which were purely organization goals, from users of the data collection application disguised as a game.
+It could be argued that the project detailed in “Research in the Large: Challenges for Large-Scale Mobile Application Research- A Case Study about NFC Adoption Using Gamification via an App Store” is not an example of gamification, and that its application is like the “full-fledged games for non-entertainment purposes” that are considered to be ‘serious games’ (Deterding *et al.* 2011).  But as there is no sharp distinction between serious games and gamified applications, and since the authors describe there project as using gamification, it's included in this review.
 
-The authors report that “most users are unaware of the game's purpose as a research project”, and later describe their intentional obfuscation of the project's goals: “[we] chose a neutral name for our game that did not disclose its nature as a research project, but did rather seem like a game of an independent development studio”.
+As mentioned previously, this project is most notable for its goals.  More exactly, for actively hiding the project's goals, which were purely organization goals, from users of the data collection application disguised as a game. The authors report that “most users are unaware of the game's purpose as a research project”, and later describe their intentional obfuscation of the project's goals: “[we] chose a neutral name for our game that did not disclose its nature as a research project, but did rather seem like a game of an independent development studio”.
 
-### “Gamifying Support”
-
-* Sampanes, Anthony Chad. 2013. “Gamifying Support.” In *Human-Computer Interaction. Applications and Services*, edited by Masaaki Kurosu, 284–91. Lecture Notes in Computer Science 8005. Springer Berlin Heidelberg. doi:10.1007/978-3-642-39262-7_32.
-
-The author of “Gamifying Support” gets off to a good start, by stating that “Points serve as feedback and track progression”, and by recommending that points are tied to “the behaviors your company wants to reinforce”.
-
-However, when describing how points can applied to customer support engineers, while they are  referred to as being part of a “feedback loop” they are no longer feedback.  Instead, they have become a work-performance metric: “How customers respond to survey’s about the quality of their interaction… could provide another source of points for the engineer.… The feedback loop for them seeing the points accumulated from “tough” calls and how this is tracked and shared with the organization can help keep the engineer focused on the solution while working to keep their composure in stressful times. Other metrics, based on analytics within a call or support center can also drive points, badges, and esteem….”
-
-Also, the author's only explanation for why a customer support engineer would be motivated to “overcome harder challenges” and “attain higher levels” is that doing so would “brings novelty into their work environment (where there otherwise wasn’t)”.  In other words, the only motivation is the obvious ‘fun’ to be had.
-
-In a final irony, the author explains one of the potential hazards of gamification: “Gamifying support could result in dehumanifying customers. Be careful that support engineers don’t get so caught up in the ‘game’ that they forget that customers are individuals whose feelings and thoughts must be considered throughout the process.”
-
-Which is ironic because the game is dehumanifying the employees.  Indeed, the customer support engineer gamification as described in “Gamifying Support” easily embodies four of the seven “Value Destruction Risks” of gamification (Raftopoulos 2014).
-
-* *Coercive participation* &ndash; users that “are under pressure and obligation to perform and are aware that they are being scrutinized, measured and evaluated” are less likely to have a gameful experience
-* *The technological whip* &ndash; the gamified system is used by the organization for surveillance, monitoring and performance tracking.
-* *Homogenization of the workforce* &ndash; “self optimizing systems” encourage behavioral conformity, but do not shift attitudes; creativity and individuality are discouraged.
-* *Shallow and inauthentic* &ndash; the gamified system is less about fun than about distracting employees from organizational dysfunctions and the methods by which the organization is controlling them.
-
+This would be ethically questionable if they described their application as a ‘serious game’; as gamification, it is both ethically questionable and an example of improperly defined goals.
 
 ----
 
