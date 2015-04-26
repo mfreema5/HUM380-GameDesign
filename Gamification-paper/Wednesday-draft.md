@@ -1,16 +1,8 @@
-<title>Gamification - literature review<\title>
+# Gamification – Literature review and guide
 
-# Introduction
+## Introduction
 
-The literature on Gamification can be divided into three categories: theory, guides, and case studys. “Guides” are sources that range from general recommendations based on theory, to recommendations of specific mechanics.  The former are related to “theory” papers, and the latter to “case studies”. This review divides the literature that way into two groups: the first is sources with theory and theory-based broad recommendations; the second is sources with more practical recommendations, and case studies.
-
-I look first at the theory side of gamification, focusing on the definition of gamification, and discussion of goals and objectives of gamification.  I then review some sources borrowed from other fields on the subject of player/user motivation, which helps bridge the gap from theory to practice.  I then review the practical advice and case studies against the concepts in the theory sources.
-
-# Definition
-
-The first topic in review the theory-classed sources is the definition of “gamification”.  This is necessarily preceded by a brief review of the definition of a digital game.
-
-## What is a digital game?
+### What is a digital game?
 
 The process of gamification is nearly always being applied on a digital platform, so for the purposes of this review and guide, only digital games are included in the discussion.  
 
@@ -18,7 +10,7 @@ What distinguishes a digital game from non-game applications is that a digital g
 
 Games create meaningful play by having actions with *integrated*, *discernable* outcomes.  Another way to consider those relationships is to say that game actions provide immediate *feedback*, and the combined feedbacks determine the player's *progress* toward a goal.  The terms “feedback” and “progress” show up often in the literature about gamification, presumably because they map directly to the core characteristics of what distinguishes a game from both undirected play and other non-games.
 
-## What is gamification?
+### What is gamification?
 
 Gamification is taking something that isn't a game and making it somehow more game-like.  The reason for doing so is “to motivate desired behaviors” and to increase “engagement” (Deterding 2012).  A commonly cited definition for gamification is:
 
@@ -36,17 +28,15 @@ So, while elements of game design are indicative of an attempt at gamification, 
 
 A useful definition of gamification, it would seem, should include not only the resulting elements, but also the process by which those elements were chosen, and the goals for which those elements were chosen.  Such a definition doesn't seem to exist in the literature.
 
-Though there is no a consensus on a complete definition of gamification, there is enough agreement on what gamification is&mdash;or perhaps what it should be&mdash;for there to be coverage in the literature of other issues such as the goals and objectives of gamification projects, which is the first topic in the next section of this review.
-
-# Goals and motivations
+## Process of gamification
 
 The general frameworks given in the literature for how to go through a gamification project largely mirror one of the approaches used in either user experience (UX) design or game design. Which is not surprising, since gamification would seem to be the bridge between the two fields.
 
->“User experience design and video game design are something like siblings who were raised in separate homes. It’s easy to understand both as forms of human-computer interaction and as centrally concerned with the design of experience. But UX design creates experiences that help people meet their real-world needs, whereas game design is about the experience for the sake of the experience.” (Ferrara 2012)
+> “User experience design and video game design are something like siblings who were raised in separate homes. It’s easy to understand both as forms of human-computer interaction and as centrally concerned with the design of experience. But UX design creates experiences that help people meet their real-world needs, whereas game design is about the experience for the sake of the experience.” (Ferrara 2012)
 
-This section focuses on the issue of defining project objects, and the following section will cover user motivations.  These two seem to be the areas where the process of gamification diverges most from both of its parent fields, UX and game design. 
+The follow sections focus on the issues of defining project objects, and understanding user motivations, since these seem to be the areas where the process diverges most from both of the parent fields of UX, and game design. 
 
-## Goals
+### Goals
 
 Both Raftopoulos (2014) and Ferrara (2012) explicitly advise to start a gamification project by determining the goals for the system. But what those goals are&mdash;or at least what they should be&mdash;is not an obvious question. To begin with, how can you properly balance the goals of the organization and the goals of the users?
 
@@ -68,17 +58,13 @@ Another possible difficulty in defining the goals of a gamification project occu
 
 So, again, a good way to ensure an appropriate inclusion of user goals in the project's goals is to include users in the process, or to deploy a system that allows users to customize and expand the system. 
 
-----
+### Motivations
 
-## Motivations
+The promise of gamification is motivation (Deterding 2012).  People will *want* to use the gamified application.
 
-The promise of gamification is motivation&mdash;people will *want* to use the gamified application (Deterding 2012).
+The question of user motivation can be approached from a variety of directions.  Here we'll look at examples from three of them.  Motivations as understood through the what games people are motivated to play; motivations as they relate to workplace performance; and the underlying motivations that drive all human behavior.
 
-The gamification literature has sparse coverage of motivation theory, so for this review I will borrow from other fields.  There are three parts to this section, the first considers motivations as understood through the games that people are motivated to play; the second covers motivations as they relate to workplace performance; and the third covers the underlying desires that drive all human behavior, and the  motivations that tie the desires to the behaviors.
-
-----
-
-### Motivations &ndash; game focus
+#### Motivations &ndash; game focus
 
 There is a list of motivations in “Playful Design &ndash; Creating game experiences in everyday interfaces” (Ferrara 2012) that is from the perspective of a game designer.  It attempts to answer the question of why people are motivated to play the games they play.
 
@@ -95,9 +81,7 @@ Unfortunately, looking at motivation through the lens of game design largely giv
 
 To do that we'll next consider self-determination theory.
 
----- 
-
-### Motivations &ndash; workplace focus
+#### Motivations &ndash; workplace focus
 
 Self-determination theory is a work motivation theory that focuses “on the relative strength of autonomous versus controlled motivation” (Gagné and Deci 2005). Much as with game-focused motivation and the desire to play a game, the strength of *autonomy* in motivations has a ‘very strong’ influence on work performance.
 
@@ -116,10 +100,7 @@ Those players are volunteering to play the game; they are not motivated by some 
 
 While self-determination theory is useful for its method of using autonomy as an indicator of the relative strength of a motivation, its distinction between integrated extrinsic motivations and intrinsic motivations that is based on interest and enjoyment likely isn't.  Indeed, a cornerstone of Reiss' Theory of 16 Basic Desires (Reiss 2004), which is covered in the next section, is the rejection of the requirement for intrinsic motivations to be pleasurable.
 
-
-----
-
-### Motivations &ndash; generalized
+#### Motivations &ndash; generalized
 
 As mentioned in the description of the utility of self-determination theory, it has been proposed that “[Intrinsic Motivation] theorists may have erred in embracing hedonism, the philosophy that pleasure motivates behavior,” and that “we may question whether [Intrinsic Motivation] theorists have exaggerated the extent to which certain activities really are pleasurable” (Reiss 2004).
 
@@ -131,7 +112,7 @@ Instead of pleasure or interest or enjoyment, the distinction between extrinsic 
 
 The internal outcomes for Reiss' 16 intrinsic motivations are a matching 16 intrinsic desires.  (See Table 1.)
 
-#### Table 1
+##### Table 1
 
 | Motive name       | Motive                                    | Intrinsic feeling             |
 |-------------------|-------------------------------------------|-------------------------------|
@@ -153,40 +134,13 @@ The internal outcomes for Reiss' 16 intrinsic motivations are a matching 16 intr
 | Saving            | Desire to collect, value of frugality     | Ownership         |
 
 
+### Game design element &ndash; Points!
 
+There are a wide variety of game design elements that might be included in a gamification project, but the most popular, by far, is ‘points!’. Sometimes rebadged as ‘coins’, or ‘karma’, descriptions of various implementations of the intrinsically valueless counters takeup 10 pages in “Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps” (Zichermann 2011).  In “Play at Work: How Games Inspire Breakthrough Thinking”, having a points! element is enough for an application or promotion to be included as an example of “gamification” in our everyday lives.
 
-* Conway, Steven. 2014. “Zombification?: Gamification, Motivation, and the User.” *Journal of Gaming & Virtual Worlds* 6 (2): 129–41. doi:10.1386/jgvw.6.2.129_1.
+This identification of points! as synonymous with of gamification is completely specious.
 
-* Reiss, Steven. 2004. “Multifaceted Nature of Intrinsic Motivation: The Theory of 16 Basic Desires.” *Review of General Psychology* 8 (3): 179–93. doi:10.1037/1089-2680.8.3.179.
-
-# Game design elements
-
-The purpose of gamification is to improve an non-game application by using game design, and game design elements.  What are game design elements? Deterding *et al.* propose that they are “elements that are characteristic to games – elements that are found in most (but not necessarily all) games, readily associated with games, and found to play a significant role in gameplay” (Deterding *et al.* 2011).
-
-Those elements should also be the result of a game design-like process, so that they are implemented in ways similar to the way they are in games. E.g., an application can have “levels” as part of how it structures content or access without having game-like “levels”, which are tied to progression through the game.  If there is a connection between “levels” and progression toward a goal, then that would be an example of a game design element.
-
-## Goals, motivations, and games design elements
-
-A gamification project has goals.  Users are directed toward those goals by motivations.  Those motivations are strengthened by appropriate game design elements.
-
-Ferrara (2012) gives examples of combinations of appropriate game design elements (in games) and game-informed motivations. 
-
-**Autonomy** &ndash; Games can give players an increased sense of freedom by giving them multiple objects from which to choose, and a variety of ways to meet those objectives.  By not imposing time restraints, and not forcing players through parts of a game that don't interest them, games can let players enjoy their autonomy.
-
-**Competence** &ndash; Players motivated by confidence need the challenge to their skills to constantly increase&ndash;if the game becomes too easy, they'll lose interest.  However, it's impossible to create a sequence of increases in difficulty that appeal to all players.  So, a common approach is to make the standard sequence increase in difficulty at a rate that only the best players can keep pace with, then offer options to help other players advance.  
-
-Players can be helped by giving them the option to choose a lower level of difficulty.  Or, there can be ways for players to earn items or features that will assist them.  Also, coaching players or having “practice” areas with little risks can help players build the skills they need to be good enough at playing the game to enjoy it.
-
-**Social Image** &ndash; Players motivated by wanting to maintain or improve their social image will want a game to provide ways to compare achievements between players.  They will enjoy having ways to display their achievements, such as items acquired in the game, or badges earned, and will expect to be able to view others achievements.
-
-**Creativity** &ndash; In a game appealing to the player's desire to be creative, the player will not be tied to any particular objective.  An easy-to-use interface will allow the player to create a wide variety of things, which are readily identified as distinct from other player's creations.  And the game will provide a way for the player to showcase her creations.
-
-Everywhere in the literature, the one game design element that seemingly is always included if any specific game design elements are discussed is ‘points!’.  That is why it merits its own section, which follows.
-## Points!
-
-While there are a wide variety of game design elements that might be used to strengthen user motivations, the most popular by far is ‘points!’. Sometimes rebadged as ‘coins’, or ‘karma’, descriptions of various implementations of the intrinsically valueless counters takeup 10 pages in “Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps” (Zichermann 2011).  In “Play at Work: How Games Inspire Breakthrough Thinking”, having a points! element is enough for an application or promotion to be included as an example of “gamification” in our everyday lives.
-
-This identification of points! as synonymous with of gamification is completely specious: “What we’re currently terming gamification is in fact the process of taking the thing that is least essential to games and representing it as the core of the experience” (Robertson 2010).
+> “What we’re currently terming gamification is in fact the process of taking the thing that is least essential to games and representing it as the core of the experience. Points and badges have no closer a relationship to games than they do to websites and fitness apps and loyalty cards. They’re great tools for communicating progress and acknowledging effort, but neither points nor badges in any way constitute a game. Games just use them&mdash;as primary school teachers, military hierarchies and coffee shops have for centuries&mdash;to help people visualise things they might otherwise lose track of. They are the least important bit of a game, the bit that has the least to do with all of the rich cognitive, emotional and social drivers which gamifiers are intending to connect with.” (Robertson 2010)
 
 The irony is that points! often play an important role in gamification.  But they are not rewards.  They do not motivate users.  When used properly, points! are an effective mechanic to provide feedback, and they can also work as indicators of progress.
 
@@ -196,38 +150,11 @@ What does it mean for points! to be properly implemented?  From a work motivatio
 
 Points! as feedback must also be obviously tied to the triggering action. Otherwise, they can have a negative effect on motivation: “When reward is presented independently of performance, people may learn they cannot influence reward presentation, resulting in reduced motivation” (Eisenberger and Cameron 1996).
 
-----
-
 ## A whirlwind literature review
 
-Having gathered the theory side of the gamification literature, and added in some motivation theory from other fields, I can use those to evaluate the practical gamification literature. Specifically, I  critically consider two broad issues: one is whether the goals of the project and/or gamified application are those of the organization or of the user; the other is the correlation between goals, motivations, and the game design elements used.
+The previous sections may seem like an excessive amount of space to spend on theories of human motivation in a paper ostensibly about gamification.  But a solid foundation in some of the ways to analyze and discuss motivations, along with a good understanding of the difference between user and organizational goals, would seem to be important for a review of the gamification literature.  Because much of that literature seems to be missing an appropriate understanding of either user v. organizational goals, or motivations, or both.
 
-In general, I focus on examples of failures to account for user goals, or failures to align goals, motivations and game design elements.
-
-### Practical advice on gamification
-
-
-#### “Gamifying Support”
-
-* Sampanes, Anthony Chad. 2013. “Gamifying Support.” In *Human-Computer Interaction. Applications and Services*, edited by Masaaki Kurosu, 284–91. Lecture Notes in Computer Science 8005. Springer Berlin Heidelberg. doi:10.1007/978-3-642-39262-7_32.
-
-The author of “Gamifying Support” gets off to a good start, by stating that “Points serve as feedback and track progression”, and by recommending that points are tied to “the behaviors your company wants to reinforce”.
-
-However, when describing how points can applied to customer support engineers, while they are  referred to as being part of a “feedback loop” they are no longer feedback.  Instead, they have become a work-performance metric: “How customers respond to survey’s about the quality of their interaction… could provide another source of points for the engineer.… The feedback loop for them seeing the points accumulated from “tough” calls and how this is tracked and shared with the organization can help keep the engineer focused on the solution while working to keep their composure in stressful times. Other metrics, based on analytics within a call or support center can also drive points, badges, and esteem….”
-
-Also, the author's only explanation for why a customer support engineer would be motivated to “overcome harder challenges” and “attain higher levels” is that doing so would “brings novelty into their work environment (where there otherwise wasn’t)”.  In other words, the only motivation is the obvious ‘fun’ to be had.
-
-In a final irony, the author explains one of the potential hazards of gamification: “Gamifying support could result in dehumanifying customers. Be careful that support engineers don’t get so caught up in the ‘game’ that they forget that customers are individuals whose feelings and thoughts must be considered throughout the process.”
-
-Which is ironic because the game is dehumanifying the employees.  Indeed, the customer support engineer gamification as described in “Gamifying Support” easily embodies four of the seven “Value Destruction Risks” of gamification (Raftopoulos 2014).
-
-1. *Coercive participation* &ndash; users that “are under pressure and obligation to perform and are aware that they are being scrutinized, measured and evaluated” are less likely to have a gameful experience
-1. *The technological whip* &ndash; the gamified system is used by the organization for surveillance, monitoring and performance tracking.
-1. *Homogenization of the workforce* &ndash; “self optimizing systems” encourage behavioral conformity, but do not shift attitudes; creativity and individuality are discouraged.
-1. *Shallow and inauthentic* &ndash; the gamified system is less about fun than about distracting employees from organizational dysfunctions and the methods by which the organization is controlling them.
-
-### Gamification case studies
-
+This section contains some brief examples.
 
 #### “Gamifying Intelligent Environments”
 
@@ -245,7 +172,7 @@ The author's also fail to understand that gamified elements need to align with u
 
 The authors of “*Gamification in Logistics and Supply Chain Education: Extending Active Learning*” only seem to go off the rails when explaining why “leaderboards and comparisons” would be an improvement.
 
->“Feedback needs be provided to students so that they can compare and contrast their own performance with that of their peers. It will become necessary to incorporate some form of the leaderboard or publication of results; even if these are not tied to particular students (we do not wish to breach privacy considerations). Such publications would allow an individual to understand where they are in comparison to their classmates; they may be able to determine that they are on the lower end of the class, motivating them to perform better in the future. …Staff can upload the results soon after assessments, ensuring students can perceive in near-to-real-time, how they are progressing in comparison to their classmates.”
+> “Feedback needs be provided to students so that they can compare and contrast their own performance with that of their peers. It will become necessary to incorporate some form of the leaderboard or publication of results; even if these are not tied to particular students (we do not wish to breach privacy considerations). Such publications would allow an individual to understand where they are in comparison to their classmates; they may be able to determine that they are on the lower end of the class, motivating them to perform better in the future. …Staff can upload the results soon after assessments, ensuring students can perceive in near-to-real-time, how they are progressing in comparison to their classmates.”
 
 Timely feedback is key to keeping users motivated.  But feedback should integrate into the overall progression through the system.  The proposed feedback doesn't do that&mdash;it only shows a user her relative rank in the class. So the leaderboard doesn't help create a gameful experience.
 
@@ -259,7 +186,7 @@ As referenced earlier, the authors of “*A Case Study in the Gamification of a 
 
 The authors confuse gamification with “pointsification” (Robertson 2010) with gamification:
 
->“Gamification… applies reward-based games design elements to tasks, such as visiting a website or using a product, in order to motivate the target market to engage in these tasks more often and deeply.”
+> “Gamification… applies reward-based games design elements to tasks, such as visiting a website or using a product, in order to motivate the target market to engage in these tasks more often and deeply.”
 
 And they confuse promoting intrinsic motivation with manipulation: “Gamification is applied to systems where specific user behaviour is desired. This requires that the game design techniques manipulate users’ behaviour with a high degree of certainty”.
 
@@ -269,13 +196,28 @@ They later explain that while they believe that good gamification manipulates be
 
 * Kranz, Matthias, Lukas Murmann, and Florian Michahelles. 2013. “Research in the Large: Challenges for Large-Scale Mobile Application Research- A Case Study about NFC Adoption Using Gamification via an App Store.” *International Journal of Mobile Human Computer Interaction* 5 (1): 45–61. doi:10.4018/jmhci.2013010103.
 
-It could be argued that the project detailed in “Research in the Large: Challenges for Large-Scale Mobile Application Research- A Case Study about NFC Adoption Using Gamification via an App Store” is not an example of gamification, and that its application is like the “full-fledged games for non-entertainment purposes” that are considered to be ‘serious games’ (Deterding *et al.* 2011).  But as there is no sharp distinction between serious games and gamified applications, and since the authors describe there project as using gamification, it's included in this review.
+As mentioned previously, the project detailed in “Research in the Large: Challenges for Large-Scale Mobile Application Research- A Case Study about NFC Adoption Using Gamification via an App Store” is most notable for its goals.  More exactly, for actively hiding the project's goals, which were purely organization goals, from users of the data collection application disguised as a game.
 
-As mentioned previously, this project is most notable for its goals.  More exactly, for actively hiding the project's goals, which were purely organization goals, from users of the data collection application disguised as a game. The authors report that “most users are unaware of the game's purpose as a research project”, and later describe their intentional obfuscation of the project's goals: “[we] chose a neutral name for our game that did not disclose its nature as a research project, but did rather seem like a game of an independent development studio”.
+The authors report that “most users are unaware of the game's purpose as a research project”, and later describe their intentional obfuscation of the project's goals: “[we] chose a neutral name for our game that did not disclose its nature as a research project, but did rather seem like a game of an independent development studio”.
 
-This would be ethically questionable if they described their application as a ‘serious game’; as gamification, it is both ethically questionable and an example of improperly defined goals.
+#### “Gamifying Support”
 
-----
+* Sampanes, Anthony Chad. 2013. “Gamifying Support.” In *Human-Computer Interaction. Applications and Services*, edited by Masaaki Kurosu, 284–91. Lecture Notes in Computer Science 8005. Springer Berlin Heidelberg. doi:10.1007/978-3-642-39262-7_32.
+
+The author of “Gamifying Support” gets off to a good start, by stating that “Points serve as feedback and track progression”, and by recommending that points are tied to “the behaviors your company wants to reinforce”.
+
+However, when describing how points can applied to customer support engineers, while they are  referred to as being part of a “feedback loop” they are no longer feedback.  Instead, they have become a work-performance metric: “How customers respond to survey’s about the quality of their interaction… could provide another source of points for the engineer.… The feedback loop for them seeing the points accumulated from “tough” calls and how this is tracked and shared with the organization can help keep the engineer focused on the solution while working to keep their composure in stressful times. Other metrics, based on analytics within a call or support center can also drive points, badges, and esteem….”
+
+Also, the author's only explanation for why a customer support engineer would be motivated to “overcome harder challenges” and “attain higher levels” is that doing so would “brings novelty into their work environment (where there otherwise wasn’t)”.  In other words, the only motivation is the obvious ‘fun’ to be had.
+
+In a final irony, the author explains one of the potential hazards of gamification: “Gamifying support could result in dehumanifying customers. Be careful that support engineers don’t get so caught up in the ‘game’ that they forget that customers are individuals whose feelings and thoughts must be considered throughout the process.”
+
+Which is ironic because the game is dehumanifying the employees.  Indeed, the customer support engineer gamification as described in “Gamifying Support” easily embodies four of the seven “Value Destruction Risks” of gamification (Raftopoulos 2014).
+
+* *Coercive participation* &ndash; users that “are under pressure and obligation to perform and are aware that they are being scrutinized, measured and evaluated” are less likely to have a gameful experience
+* *The technological whip* &ndash; the gamified system is used by the organization for surveillance, monitoring and performance tracking.
+* *Homogenization of the workforce* &ndash; “self optimizing systems” encourage behavioral conformity, but do not shift attitudes; creativity and individuality are discouraged.
+* *Shallow and inauthentic* &ndash; the gamified system is less about fun than about distracting employees from organizational dysfunctions and the methods by which the organization is controlling them.
 
 ## Conclusion
 
@@ -287,9 +229,9 @@ Issues of motivation are often reduced to simplistic distinctions between intrin
 
 ----
 
-# References
+## References
 
-* Conway, Steven. 2014. “Zombification?: Gamification, Motivation, and the User.” *Journal of Gaming & Virtual Worlds* 6 (2): 129–41. doi:10.1386/jgvw.6.2.129&#x5f;1.
+* Conway, Steven. 2014. “Zombification?: Gamification, Motivation, and the User.” *Journal of Gaming & Virtual Worlds* 6 (2): 129–41. doi:10.1386/jgvw.6.2.129_1. ._.
 * Csikszentmihalyi, Mihaly. 1991. *Flow: The Psychology of Optimal Experience*. New York : Harper & Row.
 * Deterding, Sebastian, Dan Dixon, Rilla Khaled, and Lennart Nacke. 2011. “From Game Design Elements to Gamefulness: Defining ‘Gamification.’” In *Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments, 9–15. MindTrek ’11*. New York, NY, USA: ACM. doi:10.1145/2181037.2181040.
 * Deterding, Sebastian. 2012. “Gamification: Designing for Motivation.” *Interactions* 19 (4): 14–17. doi:10.1145/2212877.2212883.
@@ -311,3 +253,4 @@ Issues of motivation are often reduced to simplistic distinctions between intrin
 * Siegall, Marc. 1988. “The Simplistic Five: An Integrative Framework for Teaching Motivation.” *Journal of Management Education* 12 (4): 141–43. doi:10.1177/105256298801200418.
 * Wood, L. C., and T. Reiners. 2012. “Gamification in Logistics and Supply Chain Education: Extending Active Learning.” In *IADIS International Conference on Internet Technologies & Society 2012*. Perth, Australia: IADIS Press. http://aut.researchgateway.ac.nz/handle/10292/6202.
 * Zichermann, Gabe. 2011. *Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps*  1st ed. Sebastopol, California. O’Reilly Media.
+
