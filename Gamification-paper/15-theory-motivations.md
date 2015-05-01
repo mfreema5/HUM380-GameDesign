@@ -53,4 +53,4 @@ The problem with defining intrinsic motivations as being inherently pleasurable 
 
 People are intrinsically motivated to do non-pleasurable actions in order to fulfill some intrinsic desire.  Why are they motivated to grinding though a game?
 
-Ferrara (2012) includes a discussion of some common player motivations, and how they relate to the games those people play.  He also has some examples of how games can be tailored to feed those motivations, by using certain game elements.  Those examples will be discussed in the following section.
+Ferrara (2012) includes a discussion of some common player motivations, and how they relate to the games those people play.  He also has some examples of how games can be tailored to feed those motivations, by using certain game elements.  Those examples will be described in the later section on “Goals, motivations, and games design elements”.
