@@ -2,8 +2,7 @@
 
 ## References
 
-* Conway, Steven. 2014. “Zombification?: Gamification, Motivation, and the User.” *Journal of Gaming & Virtual Worlds* 6 (2): 129–41. doi:10.1386/jgvw.6.2.129_1. ._.
-* Csikszentmihalyi, Mihaly. 1991. *Flow: The Psychology of Optimal Experience*. New York : Harper & Row.
+* Conway, Steven. 2014. “Zombification?: Gamification, Motivation, and the User.” *Journal of Gaming & Virtual Worlds* 6 (2): 129–41. doi:10.1386/jgvw.6.2.129&#95;1.
 * Deterding, Sebastian, Dan Dixon, Rilla Khaled, and Lennart Nacke. 2011. “From Game Design Elements to Gamefulness: Defining ‘Gamification.’” In *Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments, 9–15. MindTrek ’11*. New York, NY, USA: ACM. doi:10.1145/2181037.2181040.
 * Deterding, Sebastian. 2012. “Gamification: Designing for Motivation.” *Interactions* 19 (4): 14–17. doi:10.1145/2212877.2212883.
 * Eisenberger, Robert, and Judy Cameron. 1996. “Detrimental Effects of Reward: Reality or Myth?” *American Psychologist* 51 (11): 1153–66. doi:10.1037/0003-066X.51.11.1153.
