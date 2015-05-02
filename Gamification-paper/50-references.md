@@ -1,6 +1,6 @@
 ----
 
-## References
+# References
 
 * Conway, Steven. 2014. “Zombification?: Gamification, Motivation, and the User.” *Journal of Gaming & Virtual Worlds* 6 (2): 129–41. doi:10.1386/jgvw.6.2.129&#95;1.
 * Deterding, Sebastian, Dan Dixon, Rilla Khaled, and Lennart Nacke. 2011. “From Game Design Elements to Gamefulness: Defining ‘Gamification.’” In *Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments, 9–15. MindTrek ’11*. New York, NY, USA: ACM. doi:10.1145/2181037.2181040.
@@ -14,7 +14,7 @@
 * Nicholson, S. 2012. “A User-Centered Theoretical Framework for Meaningful Gamification.” In *GLS 8.0 Conference Proceedings*. Madison, WI, USA: ETC Press.
 * O’Donovan, Siobhan, James Gain, and Patrick Marais. 2013. “A Case Study in the Gamification of a University-Level Games Development Course.” In *Proceedings of the South African Institute for Computer Scientists and Information Technologists Conference, 242–51. SAICSIT ’13*. New York, NY, USA: ACM. doi:10.1145/2513456.2513469.
 * Penenberg, Adam L. 2013. *Play at Work : How Games Inspire Breakthrough Thinking*. New York: Portfolio/Penguin.
-* Raftopoulos, Marigo. 2014. “Towards Gamification Transparency: A Conceptual Framework for the Development of Responsible Gamified Enterprise Systems.” *Journal of Gaming & Virtual Worlds* 6 (2): 159–78. doi:10.1386/jgvw.6.2.159_1. ._.
+* Raftopoulos, Marigo. 2014. “Towards Gamification Transparency: A Conceptual Framework for the Development of Responsible Gamified Enterprise Systems.” *Journal of Gaming & Virtual Worlds* 6 (2): 159–78. doi:10.1386/jgvw.6.2.159&#95;1.
 * Reiss, Steven. 2004. “Multifaceted Nature of Intrinsic Motivation: The Theory of 16 Basic Desires.” *Review of General Psychology* 8 (3): 179–93. doi:10.1037/1089-2680.8.3.179.
 * Robertson, Margaret. 2010. “Can’t Play, Won’t Play.” *Hide&Seek*. October 6. http://www.hideandseek.net/2010/10/06/cant-play-wont-play. Accessed April 5, 2015.
 * Ryan, Richard M., and Edward L. Deci. 2000. “Intrinsic and Extrinsic Motivations: Classic Definitions and New Directions.” *Contemporary Educational Psychology* 25 (1): 54–67.
@@ -23,3 +23,4 @@
 * Siegall, Marc. 1988. “The Simplistic Five: An Integrative Framework for Teaching Motivation.” *Journal of Management Education* 12 (4): 141–43. doi:10.1177/105256298801200418.
 * Wood, L. C., and T. Reiners. 2012. “Gamification in Logistics and Supply Chain Education: Extending Active Learning.” In *IADIS International Conference on Internet Technologies & Society 2012*. Perth, Australia: IADIS Press. http://aut.researchgateway.ac.nz/handle/10292/6202.
 * Zichermann, Gabe. 2011. *Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps*  1st ed. Sebastopol, California. O’Reilly Media.
+
