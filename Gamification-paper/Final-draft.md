@@ -97,6 +97,7 @@ Borrowing from the field of Psychology, we can say that the internal consequence
 A simplified version of the table of intrinsic motives and desires provided in Reiss (2004) follows.  It lacks the “Animal behavior” and “Intrinsic feeling” columns, and the text of some of the “Motives” has been shortened.
 
 **Intrinsic Motivation – 16 Basic Desires**
+
 | Motive name       | Motive                                           |
 |-------------------|--------------------------------------------------|
 | Power             | Desire to influence, to lead                     |
