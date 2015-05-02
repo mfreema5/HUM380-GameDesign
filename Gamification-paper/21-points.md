@@ -11,18 +11,3 @@ Which means that they can be used for both of the requisite characteristics of m
 What does it mean for points! to be properly implemented?  From a work motivation perspective, “feedback needs to be specific and relevant if it is to motivate and direct” (Siegall 1988).  So, when used as feedback points! must be tied to a specific user action, and they must be tied to the *right* user action.  
 
 Points! as feedback must also be obviously tied to the triggering action. Otherwise, they can have a negative effect on motivation: “When reward is presented independently of performance, people may learn they cannot influence reward presentation, resulting in reduced motivation” (Eisenberger and Cameron 1996).
-
-----
-
-## References
-
-* Eisenberger, Robert, and Judy Cameron. 1996. “Detrimental Effects of Reward: Reality or Myth?” *American Psychologist* 51 (11): 1153–66. doi:10.1037/0003-066X.51.11.1153.
-* Penenberg, Adam L. 2013. *Play at Work : How Games Inspire Breakthrough Thinking*. New York: Portfolio/Penguin.
-* Robertson, Margaret. 2010. “Can’t Play, Won’t Play.” Hide&Seek. October 6. http://www.hideandseek.net/2010/10/06/cant-play-wont-play.
-* Siegall, Marc. 1988. “The Simplistic Five: An Integrative Framework for Teaching Motivation.” *Journal of Management Education* 12 (4): 141–43. doi:10.1177/105256298801200418.
-* Zichermann, Gabe. 2011. *Gamification by Design: Implementing Game Mechanics in Web and Mobile Apps*  1st ed. Sebastopol, California. O’Reilly Media.
-
-
-
-
-

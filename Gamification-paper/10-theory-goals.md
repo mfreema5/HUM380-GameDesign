@@ -27,17 +27,3 @@ One way proposed to overcome the confusion and possible conflict between the goa
 Another possible difficulty in defining the goals of a gamification project occurs in case where the intended users of the system have a wide variety of goals. A proposed approach to resolving the problem of needing to accomodate a broad spectrum of user goals is to adapt the Universal Design for Learning from education, which is used to create courses that are appropriate for a wide range of students.  The basic approach is to break down the overall process into steps, and then to provide a variety of approaches for each step.  At each step, users can find the approach that works best for them.  In other words, there is no single path of progress through the system, and users can switch between paths along the way.  Developing these multiple pathways can increase design difficulty, but “opening up the design of the gamification to users of the system can help designers overcome that challenge” (Nicholson 2012).
 
 So, again, a good way to ensure an appropriate inclusion of user goals in the project's goals is to include users in the process, or to deploy a system that allows users to customize and expand the system. 
-
-----
-
-## References
-
-
-* Conway, Steven. 2014. “Zombification?: Gamification, Motivation, and the User.” *Journal of Gaming & Virtual Worlds* 6 (2): 129–41. doi:10.1386/jgvw.6.2.129_1. ._.
-* Ferrara, John. 2012. *Playful Design: Creating Game Experiences in Everyday Interfaces*. 1st ed. Brooklyn, New York: Rosenfeld Media.
-* Kranz, Matthias, Lukas Murmann, and Florian Michahelles. 2013. “Research in the Large: Challenges for Large-Scale Mobile Application Research- A Case Study about NFC Adoption Using Gamification via an App Store.” *International Journal of Mobile Human Computer Interaction* 5 (1): 45–61. doi:10.4018/jmhci.2013010103.
-* Nicholson, S. 2012. “A User-Centered Theoretical Framework for Meaningful Gamification.” In *GLS 8.0 Conference Proceedings*. Madison, WI, USA: ETC Press.
-* O’Donovan, Siobhan, James Gain, and Patrick Marais. 2013. “A Case Study in the Gamification of a University-Level Games Development Course.” In *Proceedings of the South African Institute for Computer Scientists and Information Technologists Conference, 242–51. SAICSIT ’13*. New York, NY, USA: ACM. doi:10.1145/2513456.2513469.
-* Raftopoulos, Marigo. 2014. “Towards Gamification Transparency: A Conceptual Framework for the Development of Responsible Gamified Enterprise Systems.” *Journal of Gaming & Virtual Worlds* 6 (2): 159–78. doi:10.1386/jgvw.6.2.159_1.
-
-

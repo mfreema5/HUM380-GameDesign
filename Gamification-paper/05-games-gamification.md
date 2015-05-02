@@ -30,13 +30,3 @@ A useful definition of gamification, it would seem, should include not only the 
 
 Though there is no a consensus on a complete definition of gamification, there is enough agreement on what gamification is&mdash;or perhaps what it should be&mdash;for there to be coverage in the literature of other issues such as the goals and objectives of gamification projects, which is the first topic in the next section of this review.
 
-----
-
-## References
-
-* Deterding, Sebastian, Dan Dixon, Rilla Khaled, and Lennart Nacke. 2011. “From Game Design Elements to Gamefulness: Defining ‘Gamification.’” In *Proceedings of the 15th International Academic MindTrek Conference: Envisioning Future Media Environments, 9–15. MindTrek ’11*. New York, NY, USA: ACM. doi:10.1145/2181037.2181040.
-* Deterding, Sebastian. 2012. “Gamification: Designing for Motivation.” *Interactions* 19 (4): 14–17. doi:10.1145/2212877.2212883.
-* Ferrara, John. 2012. *Playful Design: Creating Game Experiences in Everyday Interfaces*. 1st ed. Brooklyn, New York: Rosenfeld Media.
-* Huotari, Kai, and Juho Hamari. 2012. “Defining Gamification: A Service Marketing Perspective.” In *Proceeding of the 16th International Academic MindTrek Conference, 17–22. MindTrek ’12*. New York, NY, USA: ACM. doi:10.1145/2393132.2393137.
-* Robertson, Margaret. 2010. “Can’t Play, Won’t Play.” *Hide&Seek*. Accessed April 5, 2015. http://www.hideandseek.net/2010/10/06/cant-play-wont-play.
-* Salen, Katie, and Eric Zimmerman. 2004. *Rules of Play : Game Design Fundamentals*. Cambridge, Mass.: MIT Press.
