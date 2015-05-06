@@ -72,8 +72,8 @@ h3 {
   line-height: 1.250em;
 }
 h4 {
-  font-family: Arial, "Helvetica Neue", Helvetica, "Liberation Sans", "DejaVu Sans Condensed", sans-serif;
-  font-weight: bold;
+  font-family: Frutiger, "Arial Narrow", Trebuchet, "DejaVu Sans Condensed", sans-serif;
+  font-weight: normal;
   font-size: 1.000em;
   line-height: 1.250em;
 }
@@ -115,6 +115,14 @@ a {
 }
 a:hover {
   text-decoration: underline;
+}
+a.cite {
+  color: #795363;
+  text-decoration: none;
+}
+a.cite:hover {
+  text-decoration: none;
+  text-shadow: #795376 0 0 13px;
 }
 .nocolor {
   color: inherit;
@@ -249,11 +257,11 @@ th + th {
     min-width: 11.5em;
     /* 12em - 0.5em for margins (border-box sizing) */
     margin: 0.250em;
-    padding: 0 0.250em 0.375em 0.250em;
+    padding: 0.250em 0.250em 0.375em 0.250em;
   }
   section {
     margin: 0.125em 0.125em 0.250em 0.125em;
-    padding: 0.375em 0.375em 0.125em 0.125em;
+    padding: 0.3125em 0.375em 0.125em 0.125em;
   }
   .subcontainer {
     margin: 0.125em 0.125em 0.250em 0.125em;
@@ -312,11 +320,11 @@ th + th {
   }
   article {
     margin: 0.250em 2% 0.250em 2%;
-    padding: 0 2% 3% 2%;
+    padding: 1% 2% 3% 2%;
   }
   section {
     margin: 1% 1% 2% 1%;
-    padding: 3% 3% 1% 1%;
+    padding: 1% 3% 1% 1%;
   }
   .subcontainer {
     margin: 1% 1% 1% 1%;
@@ -366,11 +374,11 @@ th + th {
   article {
     max-width: 37em;
     margin: 0.250em 0.750em;
-    padding: 0 0.750em 0.250em 0.750em;
+    padding: 0.625em 0.750em 0.250em 0.750em;
   }
   section {
     margin: 0.375em;
-    padding: 1.125em 1.125em 0.125em 0.375em;
+    padding: 0.750em 1.125em 0.125em 0.375em;
   }
   .subcontainer {
     margin: 0.375em;
