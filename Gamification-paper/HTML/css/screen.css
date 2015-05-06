@@ -23,15 +23,31 @@ html {
 /*    <nav>                     */
 /*    <footer>                  */
 /********************************/
+
+/* font-family: 'Merriweather', serif; */
+/* font-family: 'Merriweather Sans', sans-serif; */
+/*    Merriweather:                    */
+/*      300italic <-- medium, italic   */
+/*      300       <-- medium           */
+/*      700       <-- bold             */
+/*    Merriweather Sans:               */
+/*      300       <-- medium           */
+/*      700       <-- bold             */
+
 body {
-  font-family: Arial, "Helvetica Neue", Helvetica, "Liberation Sans", "DejaVu Sans Condensed", sans-serif;
+  font-family: 'Merriweather Sans', sans-serif;
 }
 main {
   background-color: #d1c0a9;
   border-radius: 0.250em;
 }
-article,
-nav {
+article {
+  font-family: 'Merriweather', serif;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 400;
+}
+article, nav {
   background-color: #f5eadb;
   border-radius: 0.250em;
 }
@@ -44,15 +60,15 @@ section {
   border-radius: 0.125em;
 }
 blockquote {
-  font-family: Cambria, Georgia, "Liberation Serif", serif;
-  font-style: normal;
-  font-variant: normal;
-  font-weight: 400;
+  font-family: 'Merriweather', serif;
+  font-style: italic;
+  font-weight: 300;
+  font-variant: 300italic;
   background-color: inherit;
 }
 h1 {
-  font-family: Frutiger, "Arial Narrow", Trebuchet, Helvetica, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", sans-serif;
-  font-weight: bold;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 700;
   font-size: 1.375em;
   line-height: 1.500em;
   /* font + 0.125em */
@@ -60,20 +76,20 @@ h1 {
   margin-left: 0.125em;
 }
 h2 {
-  font-family: Frutiger, "Arial Narrow", Trebuchet, Helvetica, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", sans-serif;
-  font-weight: bold;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 700;
   font-size: 1.250em;
   line-height: 1.375em;
 }
 h3 {
-  font-family: Frutiger, "Arial Narrow", Trebuchet, Helvetica, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", sans-serif;
-  font-weight: bold;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 700;
   font-size: 1.125em;
   line-height: 1.250em;
 }
 h4 {
-  font-family: Frutiger, "Arial Narrow", Trebuchet, "DejaVu Sans Condensed", sans-serif;
-  font-weight: normal;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: 300;
   font-size: 1.000em;
   line-height: 1.250em;
 }
@@ -87,10 +103,11 @@ i,
 em {
   font-style: italic;
 }
-p,
-th,
-td {
-  font-family: Arial, "Helvetica Neue", Helvetica, "Liberation Sans", "DejaVu Sans Condensed", sans-serif;
+p {
+  font-family: inherit;
+}
+th, td {
+  font-family: 'Merriweather Sans', sans-serif;
   font-style: normal;
   font-variant: normal;
   font-weight: 400;
@@ -194,21 +211,6 @@ nav a:hover {
   text-shadow: #9c9cab 0 0 28px;
   /* glows a little */
 }
-
-/*  Shade lightens      */
-/*       toward bottom  */
-/*  #4A9586  <-- mossB  */
-/*  #5EAE9E  <-- mossA  */
-/*  #74BAAC  <-- moss9  */
-/*  #8DC7BB  <-- moss8  */
-/*  #A5D3CA  <-- moss7  */
-/*  #C0E0DA  <-- moss6  */
-/*  #CFE7E2  <-- moss5  */
-/*  #DCEDEA  <-- moss4  */
-/*  #E7F3F1  <-- moss3  */
-/*  #F2F9F8  <-- moss2  */
-/*  #F7FBFA  <-- moss1  */
-
 /* table */
 table {
   width: 96.25%;
@@ -220,22 +222,22 @@ thead th {
   padding: 0.4em;
   font-size: 1em;
   color: #f1f2f1;
-  background-color: #5EAE9E; /*  <-- mossA  */
-  border: 1px solid #4A9586; /*  <-- mossB  */
+  background-color: #537969;
+  border: 1px solid #5b5b7c;
 }
 /* t-body section, td style */
 tbody td {
   vertical-align: middle;
   text-align: left;
   font-size: 0.9325em;
-  background-color: #C0E0DA; /*  <-- moss6  */
-  border: 1px solid #4A9586; /*  <-- mossB  */
+  background-color: #f1f2f1;
+  border: 1px solid #5b5b7c;
   color: #537969;
   padding: 0.6em;
 }
 /* tbody section, odd rows style */
 tbody tr:nth-child(odd) td {
-  background-color: #CFE7E2; /*  <-- moss5  */
+  background-color: #c3cac7;
 }
 /* first column left, the rest are centered */
 td + td,
@@ -368,7 +370,7 @@ th + th {
     max-width: 37.5em;
     margin: 0 auto;
     border: 0;
-    padding: 0 0 1em 0;
+    padding: 0.3125em 0 1em 0;
     /* Pad bottom to clear <nav>. */
   }
   article {
@@ -400,6 +402,7 @@ th + th {
   main {
     width: 37.5em;
     margin: 0 0 0 3.125em;
+    padding: 0.3125em 0 1em 0;
   }
   nav {
     left: 3.875em;
