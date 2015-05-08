@@ -8,21 +8,20 @@ html {
 *:after {
   box-sizing: inherit;
 }
-/* Typography, color, etc. */
-/* Layout is farther down. */
-/********************************/
-/*  Basic element hierarchy:    */
-/*  <header>                    */
-/*  <body>                      */
-/*    <main> <h1>               */
-/*      <article> <h2>          */
-/*        <div.lightbox>        */
-/*        <section> <h3>        */
-/*          <div.subcontainer>  */
-/*          <blockquote>        */
-/*    <nav>                     */
-/*    <footer>                  */
-/********************************/
+/*  Typography, color, etc.   */
+/*  Layout is farther down.   */
+/******************************/
+/*  Basic element hierarchy:  */
+/*  <header>                  */
+/*  <body>                    */
+/*    <main>                  */
+/*      <article> <h1>        */
+/*        <section> <h2>      */
+/*          <section> <h3>    */
+/*            <section> <h4>  */
+/*    <nav>                   */
+/*    <aside>                 */
+/******************************/
 
 /* font-family: 'Merriweather', serif; */
 /* font-family: 'Merriweather Sans', sans-serif; */
@@ -53,10 +52,6 @@ article, nav {
 }
 section {
   background-color: #fcf3e8;
-  border-radius: 0.125em;
-}
-.subcontainer {
-  background-color: inherit;
   border-radius: 0.125em;
 }
 blockquote {
@@ -141,15 +136,9 @@ a.cite:hover {
   text-decoration: none;
   text-shadow: #795376 0 0 13px;
 }
-.nocolor {
-  color: inherit;
-}
 nav a {
   font-family: Frutiger, Trebuchet, Helvetica, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", sans-serif;
   font-weight: 500;
-}
-main nav {
-  border-radius: 0.125em;
 }
 /* Layout *************************************/
 /* “CSS doesn't define where to place things; */
@@ -189,12 +178,13 @@ nav {
   width: 92.16%;
   /* 100% - ((2 * 2%) + (2 * (2% * 96%))) = 100% - (4% + 3.84%) */
   max-width: 37.5em;
+  height: 4.375em;  /* Need this to place <aside> properly. */
   margin: 0 auto;
   padding: 0.125em 0.375em;
 }
 nav div {
   display: inline-block;
-  font-size: 81.25%;
+  font-size: 0.8125em;
   background-color: #d1c0a9;
   border-radius: 0.9375em;
   text-align: center;
@@ -202,22 +192,50 @@ nav div {
   margin: 0.250em 0.125em;
   padding: 0.375em 0.125em;
 }
+nav span {
+  display: none;  /* Abbreviates text for narrow screens */
+}
 nav a {
   color: #537969;
 }
 nav a:hover {
   text-decoration: none;
   color: #7a7a92;
-  text-shadow: #9c9cab 0 0 28px;
-  /* glows a little */
 }
-/* table */
+aside { display: none; } /* This gets changed by javascript. */
+aside {
+  bottom: 4.375em;
+  border-radius: 0;
+  /* copied from <nav> */
+  background-color: #f5eadb;
+  border-color: #d1c0a9;
+  border-width: 0.250em 0 0 0;
+  border-style: solid;
+  position: fixed;
+  left: 0em;
+  right: 0em;
+  width: 92.16%;
+  max-width: 37.5em;
+  margin: 0 auto;
+  padding: 0.125em 0.375em;
+}
+aside div {
+  font-size: 0.6875em;
+  text-align: center;
+  width: 100%;
+  padding: 0.125em 0.125em;
+  overflow: hidden;
+}
+aside h4      { float: left; font-size: 0.8125em; }
+aside span    { float: right; font-size: 0.6825em; }
+aside section { clear: both;  }
+span.ajax     { display: inline; color: #537969; }
+span.niljax   { display: none; }
 table {
   width: 96.25%;
   border-collapse: collapse;
   margin: 0.750em 0 1em 1.825%;
 }
-/* t-head section, columns header style */
 thead th {
   padding: 0.4em;
   font-size: 1em;
@@ -225,7 +243,6 @@ thead th {
   background-color: #537969;
   border: 1px solid #5b5b7c;
 }
-/* t-body section, td style */
 tbody td {
   vertical-align: middle;
   text-align: left;
@@ -235,11 +252,9 @@ tbody td {
   color: #537969;
   padding: 0.6em;
 }
-/* tbody section, odd rows style */
 tbody tr:nth-child(odd) td {
   background-color: #c3cac7;
 }
-/* first column left, the rest are centered */
 td + td,
 th + th {
   text-align: center;
@@ -265,47 +280,16 @@ th + th {
     margin: 0.125em 0.125em 0.250em 0.125em;
     padding: 0.3125em 0.375em 0.125em 0.125em;
   }
-  .subcontainer {
-    margin: 0.125em 0.125em 0.250em 0.125em;
-    padding: 0.375em 0.250em 0.125em 0.250em;
-  }
   blockquote {
     margin: 0.375em 0.875em 0.375em 0.875em;
   }
   nav {
     display: none;
   }
-  /* Display too small/weird for ‘position:fixed’ <nav> */
-  main nav {
-    display: block;
-    position: relative;
-    min-width: 12em;
-    /* matches <article> */
-    text-align: center;
-    /* Centers an inline-block <div>, too! */
-    border-color: #d1c0a9;
-    border-width: 0;
-    border-style: solid;
-    border-radius: 0.250em;
-    width: 100%;
-    margin: 0.250em;
-    padding: 0 0.250em 0.250em 0.250em;
-  }
-  main nav div {
-    display: inline-block;
-    font-size: 0.625em;
-    background-color: #d1c0a9;
-    border-radius: 0.875em;
-    text-align: center;
-    width: 33%;
-    margin: 0.250em 6%;
-    padding: 0.375em 1.125em;
-  }
-  main nav a {
-    color: #7a7a92;
-  }
+  span.ajax   { display: none;   }
+  span.niljax { display: inline; }
 }
-/******************************************[ 12.5 em < screen < 37.5 em ]*/
+/********************************************[ 12.5 em < screen < 25 em ]*/
 /* Switch from ‘em’ to ‘%’ to allow dynamic/responsive sizing of spaces. */
 @media all and (min-width: 12.5em) {
   /*  see: css/notes-on-breakpoints.txt */
@@ -320,6 +304,10 @@ th + th {
   body {
     padding: 2%;
   }
+  main {
+    padding: 0.3125em 0 3em 0;
+    /* Pad bottom to clear <nav>. */
+  }
   article {
     margin: 0.250em 2% 0.250em 2%;
     padding: 1% 2% 3% 2%;
@@ -328,20 +316,37 @@ th + th {
     margin: 1% 1% 2% 1%;
     padding: 1% 3% 1% 1%;
   }
-  .subcontainer {
-    margin: 1% 1% 1% 1%;
-    padding: 3% 2% 1% 2%;
-  }
   blockquote {
     margin: 3% 5% 3% 5%;
   }
   nav {
     display: block;
+    height: 3.6875em;
   }
-  main nav {
-    width: 96%;
-    margin: 2%;
-    padding: 0.1875em 0.250em 0.1875em 0.250em;
+  nav div {
+    font-size: 0.7125em;
+    width: 30.5%;
+    padding: 0.250em 0.125em;
+  }
+  aside {
+    bottom: 3.6875em;
+  }
+  span.ajax   { display: inline; }
+  span.niljax { display: none;   }
+}
+/*************************************[ 25 em < screen < 37.5 em ]*/
+/* navigation text can expand  */
+@media all and (min-width: 25em) {
+  nav {
+    height: 4.375em;
+  }
+  nav div {
+    font-size: 0.8125em;
+    width: 31.5%;
+    padding: 0.375em 0.125em;
+  }
+  aside {
+    bottom: 4.375em;
   }
 }
 /**********************************[ 37.5 em < screen < 45.25 em ]*/
@@ -382,10 +387,6 @@ th + th {
     margin: 0.375em;
     padding: 0.750em 1.125em 0.125em 0.375em;
   }
-  .subcontainer {
-    margin: 0.375em;
-    padding: 1.125em 0.750em 0.375em 0.750em;
-  }
   blockquote {
     margin: 1.125em 1.625em 1.125em 1.625em;
   }
@@ -396,38 +397,29 @@ th + th {
     border-style: solid;
     border-radius: 0 0 0.250em 0.250em;
   }
+  aside {
+    border-radius: 0;
+    /* copied from <nav> */
+    border-width: 0.250em 0.750em 0 0.750em;
+    border-style: solid;
+    width: 96%;
+  }
 }
 /**********************************[ 45.25 em < screen < 60 em ]*/
 @media all and (min-width: 45.25em) {
   main {
     width: 37.5em;
     margin: 0 0 0 3.125em;
-    padding: 0.3125em 0 1em 0;
   }
   nav {
     left: 3.875em;
     width: 37.500em;
     margin: 0;
   }
-  main nav {
-    /* Collapses to become an empty divider between <articles>. */
-    background-color: #b19979;
-    top: 0;
-    left: 0;
-    border-width: 0;
-    border-style: solid;
-    border-radius: 0.1875em;
-    /* Matches vertical padding. */
-    width: 96%;
-    height: auto;
-    margin: 0 2% 0.125em 2%;
-    padding: 0.1875em 0.250em 0.1875em 0.250em;
-    /* Clear attributes set for <nav>    */
-    display: inline-block;
-    position: relative;
-  }
-  main nav a {
-    display: none;
+  aside {
+    left: 3.875em;
+    width: 37.500em;
+    margin: 0;
   }
 }
 /****************************************[ 60 em < screen ]*/
@@ -435,34 +427,54 @@ th + th {
   body {
     padding: 2% 1px;
   }
+  main {
+    padding: 0.3125em 0 0.3125em 0;
+  }
   nav {
     /* nail it down */
     border-radius: 0.9375em;
     border-width: 0.325em;
     position: fixed;
     top: 3em;
+    bottom: initial;
+    height: initial;
     left: 44.5em;
-    width: 12.50em;
-    height: 8.125em;
+    min-width: 12.50em;
+    width: 26%;
     padding: 0.1875em;
   }
   nav div {
-    font-size: 100%;
+    font-size: 0.9375em;
     text-align: center;
-    width: 11.250em;
+    width: 96%;
+    margin: 0.250em 0;
     padding: 0.375em 0.125em;
   }
-  main nav {
-    border-radius: 0.1875em;
-    /* Matches vertical padding. */
-    border-width: 0;
-    position: relative;
-    /* reset value from <nav> */
-    width: 96%;
-    height: auto;
-    padding: 0.1875em 0.250em 0.1875em 0.250em;
+  nav span {
+    display: inline;
   }
-  main nav a {
-    display: none;
+  nav a:hover {
+    text-shadow: #9c9cab 0 0 14px;
+    /* glows a little */
   }
+  aside {
+    border-radius: 0.9375em;
+    border-width: 0.325em;
+    border-color: #d1c0a9;
+    border-style: solid;
+    position: fixed;
+    bottom: 3em;
+    left: 44.5em;
+    min-width: 12.50em;
+    width: 26%;
+    padding: 0.375em;
+  }
+  aside div {
+    font-size: 0.8125em;
+    text-align: right;
+    width: 100%;
+    padding: 0.125em 0.125em;
+    overflow: hidden;
+  }
+  aside h4 { font-size: initial; }
 }

@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta name="generator" content="pandoc">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <link href="css/reset.css" media="screen,print" rel="stylesheet">
     <link href="css/screen.css" rel="stylesheet">
@@ -20,6 +19,8 @@
           <h4>Illinois Institute of Technology</h4>
           <h4><em>Chicago, Illinois</em></h4>
         </section>
+      </article>
+      <article id="introduction">
         <section>
           <h1>Introduction</h1>
           <p>
@@ -30,7 +31,7 @@
           </p>
         </section>
       </article>
-      <article>
+      <article id="definition">
         <section>
           <h1>Definition</h1>
           <p>
@@ -86,7 +87,7 @@
           </p>
         </section>
       </article>
-      <article>
+      <article id="goals-motivations">
         <section>
           <h1>Goals and motivations</h1>
           <p>
@@ -265,7 +266,7 @@
           </p>
         </section>
       </article>
-      <article>
+      <article id="game design elements">
         <section>
           <h1>Game design elements</h1>
           <p>
@@ -320,7 +321,7 @@
           </p>
         </section>
       </article>
-      <article>
+      <article id="evaluating-gamification-against-theory">
         <section>
           <h1>Practical gamification literature – evaluation against theory</h1>
           <p>
@@ -395,7 +396,7 @@
           </ol>
         </section>
       </article>
-      <article>
+      <article id="conclusion">
         <section>
           <h1>Conclusion</h1>
           <p>
@@ -409,7 +410,7 @@
           </p>
         </section>
       </article>
-      <article>
+      <article id="references">
         <section class="ref">
           <h1>References</h1>
           <p id="Conway_2014">
@@ -477,6 +478,74 @@
           </p>
         </section>
       </article>
+      <nav>
+        <a href="#introduction">
+          <div>
+            Introduction
+          </div>
+        </a>
+        <a href="#definition">
+          <div>
+            Definition<span> of gamification</span>
+          </div>
+        </a>
+        <a href="#goals-motivations">
+          <div>
+            Goals &amp; motives
+          </div>
+        </a>
+        <a href="#evaluating-gamification-against-theory">
+          <div>
+            Practice<span> versus theory</span>
+          </div>
+        </a>
+        <a href="#conclusion">
+          <div>
+            Conclusion
+          </div>
+        </a>
+        <a href="#references">
+          <div>
+            References
+          </div>
+        </a>
+      </nav> <!-- Putting this inside <main> makes it centered w/o "margin: 0 auto;" support -->
     </main>
+    <aside id="side-ref">
+      <h4>Reference</h4>
+      <span><a onclick="hideElement('side-ref','none')">[close]</a></span>
+      <section id="ref-target">
+        <div>
+          <em>Loading…</em>
+        </div>
+      </section>
+    </aside>
+    <footer>
+      <address></address>
+    </footer>
+    <script>
+      function hideElement (targetEID,targetDisplay) {
+        var targetElement = document.getElementById(targetEID);
+        targetElement.style.display = ( targetElement.style.display == 'block' ? 'none' : 'none' );
+      }
+      function showElement (targetEID,targetDisplay) {
+        var targetElement = document.getElementById(targetEID);
+        targetElement.style.display = ( targetElement.style.display == 'none' ? 'block' : 'block' );
+      }
+      function fetchText (targetHypertext,targetID) {
+        var xhr = new XMLHttpRequest();
+          xhr.open("GET", targetHypertext, true);
+
+          xhr.onreadystatechange = function ()
+            {
+              if (xhr.readyState==4 && xhr.status==200)  
+              {
+                document.getElementById(targetID).innerHTML=xhr.responseText;
+              }
+            }
+          xhr.send();
+        showElement('side-ref','block');
+      }
+    </script>
   </body>
 </html>
