@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1008"
+   height="600"
+   viewBox="0 0 3571.6535 600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="serialkiller.svg"
+   inkscape:export-filename="/Users/MJF/Documents/Git Repositories/HUM380-GameDesign/ideas/img/serialkiller.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.65"
+     inkscape:cx="530.54611"
+     inkscape:cy="306.82015"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1219"
+     inkscape:window-height="749"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     units="px"
+     inkscape:object-nodes="true"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3355"
+       spacingy="6"
+       spacingx="21.259842"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1602.8582)">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7.08661445;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 170.07875,1605.2204 c -1e-5,-63.7795 21.25984,-85.0393 85.0394,-85.0393 l 340.15744,0 c 63.7796,0 85.03943,21.2598 85.03943,85.0393 l 0,680.3151 c 0,63.7796 -21.25983,85.0394 -85.03943,85.0394 l -340.15744,-1e-4 c -63.77956,1e-4 -85.03941,-21.2598 -85.0394,-85.0393 l 0,-680.3151"
+       id="path3357"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccc" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3357"
+       id="use3359"
+       transform="translate(595.2756,-510.23624)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3357"
+       id="use3361"
+       transform="translate(595.2756,425.19687)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3357"
+       id="use3363"
+       transform="translate(1190.5512,-510.23624)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3357"
+       id="use3365"
+       transform="translate(1190.5512,425.19687)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3357"
+       id="use3367"
+       transform="translate(1785.8268,-510.23624)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#path3357"
+       id="use3369"
+       transform="translate(1785.8268,425.19687)"
+       width="100%"
+       height="100%" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:7.08661445;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 2551.1813,1945.3779 0,-170.0787 c 0,-340.1575 170.0788,-680.315 425.1969,-680.315 255.1181,0 425.1968,340.1575 425.1968,680.315 l 0,170.0787 c 0,425.197 -170.0787,765.3545 -425.1968,765.3545 -255.1181,0 -425.1969,-425.1969 -425.1969,-765.3545 z"
+       id="path3371"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text"
+     style="display:inline">
+    <text
+       transform="translate(0,-1602.8582)"
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:141.73228455px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="421.39447"
+       y="1878.1968"
+       id="text3373"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3375"
+         x="421.39447"
+         y="1878.1968"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:141.73228455px;line-height:125%;font-family:'Avenir Next Condensed';-inkscape-font-specification:'Avenir Next Condensed, Semi-Bold Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle">VICTIM</tspan><tspan
+         sodipodi:role="line"
+         x="421.39447"
+         y="2055.3621"
+         id="tspan3377"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:141.73228455px;line-height:125%;font-family:'Avenir Next Condensed';-inkscape-font-specification:'Avenir Next Condensed, Semi-Bold Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle">PILE</tspan></text>
+    <text
+       transform="translate(0,-1602.8582)"
+       sodipodi:linespacing="125%"
+       id="use3395"
+       y="1782.3857"
+       x="2975.4192"
+       style="font-style:normal;font-weight:normal;font-size:141.73228455px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:141.73228455px;line-height:125%;font-family:'Avenir Next Condensed';-inkscape-font-specification:'Avenir Next Condensed, Semi-Bold Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         y="1782.3857"
+         x="2975.4192"
+         id="tspan3399"
+         sodipodi:role="line">POLICE</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:141.73228455px;line-height:125%;font-family:'Avenir Next Condensed';-inkscape-font-specification:'Avenir Next Condensed, Semi-Bold Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         y="1959.5511"
+         x="2975.4192"
+         sodipodi:role="line"
+         id="tspan3401">EVIDENCE</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:141.73228455px;line-height:125%;font-family:'Avenir Next Condensed';-inkscape-font-specification:'Avenir Next Condensed, Semi-Bold Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         y="2136.7166"
+         x="2975.4192"
+         sodipodi:role="line"
+         id="tspan3403">PILE</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:141.73228455px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="1021.748"
+       y="-149.85831"
+       id="text3379"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3381"
+         x="1021.748"
+         y="-149.85831"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:condensed;font-size:141.73228455px;line-height:125%;font-family:'Avenir Next Condensed';-inkscape-font-specification:'Avenir Next Condensed, Semi-Bold Condensed';text-align:center;writing-mode:lr-tb;text-anchor:middle">GRAVE</tspan></text>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text3379"
+       id="use3383"
+       transform="translate(6.7383164e-5,1020.4725)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text3379"
+       id="use3385"
+       transform="translate(1190.5513,1020.4725)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text3379"
+       id="use3391"
+       transform="translate(595.27552,-19.984206)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#text3379"
+       id="use3393"
+       transform="translate(1190.5511,-19.984206)"
+       width="100%"
+       height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3385"
+       id="use3387"
+       transform="translate(-595.27563,-2.5600739e-5)"
+       width="100%"
+       height="100%" />
+  </g>
+</svg>

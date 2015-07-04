@@ -19,7 +19,7 @@ Kill, kill, kill!&mdash;but don't get caught.  The winner is the last serial kil
 * Numbered cards - *missed opportunity!*
 
 ## Layout
-![dead simple diagram](img/tex-able.png)
+![dead simple diagram](img/serialkiller.png)
 
 ## Gameplay
 
@@ -29,23 +29,29 @@ To select who goes first: players draw a card at random from the shuffled deck. 
 
 To start the game: shuffle the deck.  Place the deck in the “victim stack”.
 
-The first player draws six cards from top of the victim stack, placing each into one of six “grave” piles.  (Arrange graves so that all players can reach them.)
+The first player draws six cards from top of the victim stack, placing each card into one of six “grave” piles.  (Arrange graves so that all players can reach them.)
 
-Subsequent players will draw only as many cards as there are open graves.  Play proceeds clockwise.
+Subsequent players will draw only as many cards as there are open graves, placing each card the draw into a grave.  Play proceeds clockwise.
 
-A **King** or **Queen** is a *victim*.  If a player draws a *victim* and places it into a grave, the player has successfully killed that turn.  The grave that the victim goes into is now full, and no more cards will be placed in it.  Graves with numbered cards are still open&mdash;and proof that a player missed an opportunity to kill!
+A **King** or **Queen** is a *victim*.  
 
-If a player does not draw a **King** or **Queen**, that player has failed to kill that turn.  The player's unsatisfied urge to kill will make the player distracted and sloppy, and so the police find a *clue* about the player's identity.
+If a player draws a *victim* the player has successfully killed that turn.  When the player places the victim into a grave, that grave is now full, and no more cards will be placed in it.  Graves with numbered cards are still open&mdash;and proof that a player missed an opportunity to kill!
+
+If a player does not draw a **King** or **Queen**, that player has failed to kill that turn.  The player's unsatisfied urge to kill makes the player distracted and sloppy, and so the police find a *clue* about the player's identity.
 
 When the police find a *clue* about a player, one of that player's counters is moved to the “police investigation” pile.  When the police have collected all of the *clues* about a player&mdash;meaning the player has no counters left&mdash;they arrest the player, who is then out of the game.
 
-**Jacks** and **Aces** are special cards.  Players are not required to immediately put a **Jack** or **Ace** into a grave; they are only put into a grave when the player chooses to do so.  The grave into which the card would have been placed when it was drawn gets skipped for that turn.
+**Jacks** and **Aces** are special cards.  Players are not required to immediately put a **Jack** or **Ace** into a grave; they are only put into a grave when the player chooses to do so.  The player skips the grave into which the card would have been placed when it was drawn.
 
-A **Jack** is a *corpse*.  Since the **Jack** is already dead, it fails to satiate a player's need to kill, so it does not prevent the player losing a *clue* to the police investigation pile. However, since the police are not investigating the death of the *corpse*, the player can choose to hold onto a *corpse* instead of burying it right away.
+A **Jack** is a *corpse*.  
 
-A player can use the *corpse* to close a grave, by putting the *corpse* into it.  A *corpse* can be played at the end of a turn of the player who drew the **Jack**.
+Since the **Jack** is already dead, it fails to satiate a player's need to kill, so it does not prevent the player from losing a *clue* to the police investigation pile. However, since the police are not investigating the death of the *corpse*, the player can choose to hold onto a *corpse* instead of burying it right away.
 
-An **Ace** is an *informant*.  An *informant* can either discredit a *clue* against the player playing the **Ace**, or can inform on another player.  When the *informant* discredits a *clue*, the player playing the **Ace** gets a counter back from the police investigation pile; when the *informant* informs on another player, that player loses a *clue* to the police investigation pile. 
+A player can use a *corpse* to close a grave, by putting the *corpse* into it.  A *corpse* can be played at the end of any turn of the player who drew the **Jack**.
+
+An **Ace** is an *informant*.  
+
+An *informant* can either discredit a *clue* against the player playing the **Ace**, or can inform on another player.  When the *informant* discredits a *clue*, the player playing the **Ace** gets a counter back from the police investigation pile; when the *informant* informs on another player, that player loses a *clue* to the police investigation pile. 
 
 To use an *informant*, there must be a victim.  If there are no victims, the *informant* cannot be played.  A *corpse* does not qualify as a victim, since there is no police investigation into the death of the *corpse*.  
 
@@ -53,6 +59,6 @@ When using an informant, the **Ace** is placed on top of a **King** or **Queen**
 
 Any special cards (*corpses* or *informants*) that a player is holding should be kept face up and plainly visible to the other players.
 
-When all six of the graves are occupied by *victims* or *corpses*, reshuffle all of the unheld cards, both those in graves and in the victim stack.  (Special cards&mdash;*corpses* or *informants*&mdash;being held by players are not taken.)  The shuffled deck is placed back in the victim stack.  Play resumes where it left off.  There are once again six open graves to fill, so…
+When all six of the graves are occupied by *victims* or *corpses*, reshuffle all of the unheld cards, both those in graves and in the victim stack.  Special cards&mdash;*corpses* or *informants*&mdash;being held by players are not taken.  The shuffled deck is placed back in the victim stack.  Play resumes where it left off.  There are once again six open graves to fill, so…
 
 Get out there and kill, kill, kill!
